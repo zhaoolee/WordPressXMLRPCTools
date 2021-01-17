@@ -1,0 +1,5 @@
+{
+    "username": "",
+    "password": "",
+    "xmlrpc_php": "https://fangyuanxiaozhan.com/xmlrpc.php"
+}
