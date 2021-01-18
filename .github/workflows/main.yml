@@ -2,7 +2,7 @@ name: fangyuanxiaozhan
 on:
   push:
     branches:    
-      - master
+      - main
 jobs:
   install-test:
       runs-on: ubuntu-latest
