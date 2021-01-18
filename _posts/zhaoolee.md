@@ -1,12 +1,11 @@
 ---
 title: zhaoolee的Github主页
 tags: 
-- CallBack
-- Promise
-- Node.js
+- zhaoolee
 categories:
-- 前端
+- Github
 ---
+
 ### zhaoolee: 一个热衷开源事业的程序员 👋
 
 ![zhaoolee](https://github-readme-stats.vercel.app/api?username=zhaoolee&show_icons=true)
@@ -24,4 +23,3 @@ categories:
 | [zhaoolee的简书博客](https://www.jianshu.com/u/c5d047065c42) | 简书平台早晚要凉 |
 | [公众号：0加1](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png)  |  0加1，防加班办公技能宝典，zhaoolee个人的日更的公众号 |
 | [B站](https://space.bilibili.com/9116631)  | 目前LV5， 老二刺螈了！  |
-

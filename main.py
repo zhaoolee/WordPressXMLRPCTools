@@ -178,6 +178,8 @@ def post_link_id_list_2_link_id_dic(post_link_id_list):
         link_id_dic[post["link"]] = post["id"]
     return link_id_dic
 
+def href_info(link):
+    return "<br/>\n---\n## 本文永久更新地址: \n[" + link + "](" + link + ")"
 
 def main():
 
@@ -191,13 +193,11 @@ def main():
     # 如果不存在则创建md_sha1.txt,内容初始化为{}，并读取其中的内容；
     # 将读取的字典内容变量名，设置为 md_sha1_dic
     md_sha1_dic = get_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"))
-    print(md_sha1_dic)
 
     # 3. 开始同步
     # 读取_posts目录中的md文件列表
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
 
-    
     for md in md_list:
         # 计算md文件的sha1值，并与md_sha1_dic做对比
         sha1_key =  os.path.basename(md)
@@ -213,10 +213,9 @@ def main():
             title = metadata.get("title", "")
             terms_names_post_tag = metadata.get("tags",  domain_name)
             terms_names_category = metadata.get("categories", domain_name)
-            content = markdown.markdown(content, extensions=['tables'])
             post_status = "publish"
             link = sha1_key.split(".")[0]
-            print("===keys===>>", link_id_dic.keys())
+            content = markdown.markdown(content + href_info("https://"+domain_name+"/p/"+link+"/"), extensions=['tables'])
             # 如果文章无id,则直接新建
             if(("https://"+domain_name+"/p/"+link+"/" in link_id_dic.keys()) == False):
                 new_post(title, content, link, post_status, terms_names_post_tag, terms_names_category)

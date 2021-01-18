@@ -3,10 +3,15 @@ url = "https://pypi.python.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[scripts]
+push = "python main.py"
+test = "python test.py"
+
+
 [packages]
-markdown = "*"
-python-wordpress-xmlrpc = "*"
-python-frontmatter = "*"
+markdown = "3.3.3"
+python-wordpress-xmlrpc = "2.3"
+python-frontmatter = "0.5.0"
 
 [dev-packages]
 
