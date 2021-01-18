@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   install-test:
-      runs-on: ubuntu-latest
+      runs-on: ubuntu-20.04
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
       - name: Install dependecies
