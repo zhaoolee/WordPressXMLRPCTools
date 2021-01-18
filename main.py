@@ -28,6 +28,18 @@ username = config_info["username"]
 password = config_info["password"]
 xmlrpc_php = config_info["xmlrpc_php"]
 
+try:
+    if(os.environ["USERNAME"]):
+        username = os.environ["USERNAME"]
+        print("=os=username==", username)
+
+    if(os.environ["PASSWORD"]):
+        password = os.environ["PASSWORD"]
+        print("=os=password==", password)
+except:
+    print("无法获取github变量")
+
+
 url_info = urlparse(xmlrpc_php)
 
 domain_name = url_info.netloc
