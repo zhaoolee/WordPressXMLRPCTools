@@ -14,7 +14,8 @@ jobs:
           command: install -d # Install all dependencies, including development ones
       - name: Test
         env:
-            USERNAME: ${{ secrets.USERNAME }}
+            USERNAME: ${{ <USERNAME> }}
+            PASSWORD: ${{ <PASSWORD> }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
           command: run push # Run custom `test` command defined in the `[scripts]` block of Pipfile
