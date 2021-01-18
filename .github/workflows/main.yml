@@ -4,7 +4,7 @@ on:
     branches:    
       - main
 jobs:
-  install-test:
+  push:
       runs-on: ubuntu-20.04
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
@@ -17,4 +17,4 @@ jobs:
             USERNAME: ${{ secrets.USERNAME }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: run test # Run custom `test` command defined in the `[scripts]` block of Pipfile
+          command: run push # Run custom `test` command defined in the `[scripts]` block of Pipfile
