@@ -6,7 +6,7 @@ name = "pypi"
 [scripts]
 push = "python main.py"
 test = "python test.py"
-
+new = "python new.py"
 
 [packages]
 markdown = "3.3.3"
