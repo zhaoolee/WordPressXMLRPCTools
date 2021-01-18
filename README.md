@@ -1,7 +1,5 @@
 # 将本地Markdown同步到WordPress
 
-
-
 - 在根目录下config.txt配置信息
 
 用户名 username

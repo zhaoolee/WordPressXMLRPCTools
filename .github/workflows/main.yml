@@ -18,4 +18,4 @@ jobs:
             PASSWORD: ${{ secrets.PASSWORD }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: run push # Run custom `test` command defined in the `[scripts]` block of Pipfile
+          command: run build # Run custom `test` command defined in the `[scripts]` block of Pipfile
