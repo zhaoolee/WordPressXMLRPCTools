@@ -199,7 +199,7 @@ def insert_index_info_in_readme():
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
     # 生成插入列表
     insert_info = ""
-    md_list.sort()
+    md_list.sort(reverse=True)
     # 读取md_list中的文件标题
     for md in md_list:
         (content, metadata) = read_md(md)
