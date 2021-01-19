@@ -18,7 +18,6 @@ else:
 
 config_info = {}
 
-print("==config_file_txt==>", config_file_txt)
 
 with open (config_file_txt, 'rb') as f:
     config_info = json.loads(f.read())
@@ -92,7 +91,6 @@ def new_post(title, content, link, post_status, terms_names_post_tag, terms_name
         terms_names_category = terms_names_category)
     # 先获取id
     id = wp.call(NewPost(post_obj))
-    print("==>>", id)
     # 再通过EditPost更新信息
     edit_post(id, title, 
         content, 
@@ -164,7 +162,6 @@ def read_dic_from_file(file):
 # 获取md_sha1_dic
 
 def get_md_sha1_dic(file):
-    print("==file==>>", file)
     result = {}
     if(os.path.exists(file) == True):
         result = read_dic_from_file(file)
@@ -213,13 +210,13 @@ def insert_index_info_in_readme():
         readme_md_content = f.read()
 
     print(insert_info)
-    print(readme_md_content)
 
     new_readme_md_content = re.sub(r'---start---(.|\n)*---end---', insert_info, readme_md_content)
 
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
 
+    print("==new_readme_md_content==>>", new_readme_md_content)
 
     return True
 
