@@ -12,7 +12,7 @@ jobs:
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
           command: install -d # Install all dependencies, including development ones
-      - name: Test
+      - name: Build
         env:
             USERNAME: ${{ secrets.USERNAME }}
             PASSWORD: ${{ secrets.PASSWORD }}
@@ -20,3 +20,11 @@ jobs:
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
           command: run build
+      - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
+        run: |
+          git diff
+          git config --global user.email "zhaoolee@gmail.com"
+          git config --global user.name "zhaoolee"
+          git add .md_sha1 README.md
+          git commit -m "Github Action auto Updated"
+          git push
