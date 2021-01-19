@@ -12,9 +12,6 @@
 
 
 
-
-
-
 ## 用Github Actions写Markdown文章，自动更新到WordPress
 
 zhaoolee是一个经常写博客的人，写博客最好的方式就是使用Markdown，管理博客最省心的方式是WordPress，推广博客最好的平台是Github，这个项目可以让你用Markdown写博客，push更新到Github后，Github Actions开始自动运行，自动将文章索引更新到仓库的README.md，自动更新文章到WordPress
@@ -45,7 +42,7 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 - 2. WordPress登录密码，变量名为PASSWORD
 - 3. WordPress的xmlrpc.php，变量名为 XMLRPC_PHP
 
-
+![image-20210119173133800](https://cdn.fangyuanxiaozhan.com/assets/1611048694318hcciGc7y.png)
 
 
 
@@ -83,7 +80,22 @@ categories:
 
 
 
-## 一些个性化的设置
+###  如何设置固定链接？
+
+
+对于博客而言，文章拥有一个固定的链接，是很重要的，我经过各种尝试，最终借鉴了 [简书](jianshu.com) 的文章url形式，域名后加 `/p/` , 再加英文文件名，只要不改变英文文件名，文章就有固定的链接，我在`_post` 目录下新建一个 `2020-01-18-blog.md` 文件，同步后的文章url为 `https://fangyuanxiaozhan.com/p/2020-01-18-blog/`, 这样的好处在于，文件名与网站url严格对应，既方便了修改，又可以在网站数据库出事故后，迅速从github仓库迅速恢复文章内容，连url都不会变（容灾）。
+
+
+![image-20210119171713841](https://cdn.fangyuanxiaozhan.com/assets/1611047834285jN2YQeXH.png)
+
+
+
+
+
+
+
+
+
 
 
 

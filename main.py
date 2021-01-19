@@ -180,6 +180,7 @@ def rebuild_md_sha1_dic(file, md_dir):
         value = get_sha1(md)
         md_sha1_dic[key] = value
 
+    md_sha1_dic["update_time"] =  time.strftime('%Y-%m-%d-%H-%M-%S')
     write_dic_info_to_file(md_sha1_dic, file)
 
 def post_link_id_list_2_link_id_dic(post_link_id_list):
@@ -205,7 +206,7 @@ def insert_index_info_in_readme():
         insert_info = insert_info + "[" + title +"](" + "https://"+domain_name + "/p/" + os.path.basename(md).split(".")[0] +"/" + ")\n\n"
     # 替换 ---start--- 到 ---end--- 之间的内容
 
-    insert_info = "---start---\n## 目录\n" + insert_info + "---end---"
+    insert_info = "---start---\n## 目录(" + time.strftime('%Y年%m月%d日') + "更新)" +"\n" + insert_info + "---end---"
 
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
