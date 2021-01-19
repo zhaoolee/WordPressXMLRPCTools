@@ -12,8 +12,6 @@ categories:
 
 
 
-
-
 ## 用Github Actions写Markdown文章，自动更新到WordPress
 
 
@@ -31,6 +29,14 @@ categories:
 
 
 ![image-20210119181051609](https://cdn.fangyuanxiaozhan.com/assets/1611051052118Z21Pjrw0.png)
+
+
+
+代码永久开源更新地址
+
+[https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
+
+
 
 
 ### 如何实现WordPress登录授权？
@@ -131,7 +137,28 @@ categories:
 git pull && git add _posts && git commit -m "update" && git push
 ```
 
+![image-20210119182503520](https://cdn.fangyuanxiaozhan.com/assets/1611051904013p4WCHxex.png)
+
 即可！
 
 
 
+![image-20210119182653436](https://cdn.fangyuanxiaozhan.com/assets/16110520138793TGD6cHN.png)
+
+
+
+Github README.md显示效果
+
+
+
+![image-20210119182758895](https://cdn.fangyuanxiaozhan.com/assets/1611052079291Ks7sijP1.png)
+
+网站显示效果
+
+![image-20210119182849720](https://cdn.fangyuanxiaozhan.com/assets/1611052130277KNhYZbzz.png)
+
+
+
+代码永久开源更新地址
+
+[https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
