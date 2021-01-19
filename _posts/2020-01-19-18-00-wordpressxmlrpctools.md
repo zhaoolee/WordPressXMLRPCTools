@@ -151,7 +151,7 @@ Github README.md显示效果
 
 
 
-![image-20210119182758895](https://cdn.fangyuanxiaozhan.com/assets/1611052079291Ks7sijP1.png)
+![image-20210119184015781](https://cdn.fangyuanxiaozhan.com/assets/1611052816321Kp8zQp1X.png)
 
 网站显示效果
 
