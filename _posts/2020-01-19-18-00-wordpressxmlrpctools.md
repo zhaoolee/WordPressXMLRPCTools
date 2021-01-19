@@ -32,7 +32,7 @@ categories:
 
 
 
-代码永久开源更新地址
+程序永久开源更新地址
 
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
 
@@ -73,9 +73,17 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 
 本项目需要设置三个secret
 
-- 1. WordPress登录用户名, 变量名为USERNAME
-- 2. WordPress登录密码，变量名为PASSWORD
-- 3. WordPress的xmlrpc.php，变量名为 XMLRPC_PHP
+
+
+- WordPress登录用户名, 变量名为 USERNAME
+- WordPress登录密码，变量名为 PASSWORD
+- WordPress的xmlrpc.php，变量名为 XMLRPC_PHP
+
+
+
+
+
+
 
 ![image-20210119173133800](https://cdn.fangyuanxiaozhan.com/assets/1611050563553icaXAiM0.png)
 
@@ -96,6 +104,10 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 
 
 
+
+
+
+
 ```
 ---
 title: 我是标题
@@ -110,17 +122,32 @@ categories:
 
 ```
 
-标签(tags)和分类(categories)有什么区别？
 
-标签(tags)是针对单篇文章的关键词，比如香蕉的标签有**黄色**，**味甜**
-分类(categories)是本篇文章的归属，比如香蕉的归属为**水果**，**植物**
+
+
+
+
+
+## 标签(tags)和分类(categories)有什么区别？
+
+标签(tags)是针对单篇文章的关键词，比如香蕉的标签有 **黄色**，**味甜** （标签是香蕉的属性）
+分类(categories)是本篇文章的归属，比如香蕉的分类为 **水果**，**植物** 
 
 ![image-20210119182027684](https://cdn.fangyuanxiaozhan.com/assets/1611051628229xrNmfEkC.png)
 
 ###  如何设置固定链接？
 
+对于博客而言，文章拥有一个固定的链接，是很重要的，我经过各种尝试，最终借鉴了 [简书](jianshu.com) 的文章url形式，域名后加 `/p/` , 再加英文文件名，只要不改变英文文件名，文章就有固定的链接，我在`_posts` 目录下新建一个 `2020-01-18-blog.md` 文件，同步后的文章url为 
 
-对于博客而言，文章拥有一个固定的链接，是很重要的，我经过各种尝试，最终借鉴了 [简书](jianshu.com) 的文章url形式，域名后加 `/p/` , 再加英文文件名，只要不改变英文文件名，文章就有固定的链接，我在`_posts` 目录下新建一个 `2020-01-18-blog.md` 文件，同步后的文章url为 `https://fangyuanxiaozhan.com/p/2020-01-18-blog/`, 这样的好处在于，文件名与网站url严格对应，既方便了修改，又可以在网站数据库出事故后，迅速从github仓库迅速恢复文章内容，连url都不会变（容灾）。
+
+
+[https://fangyuanxiaozhan.com/p/2020-01-18-blog/](https://fangyuanxiaozhan.com/p/2020-01-18-blog/)
+
+
+
+文件名与网站url严格对应，既方便了修改，又可以在网站数据库出事故后，迅速从github仓库迅速恢复文章内容（容灾），连url都不会变。
+
+
 
 
 ![image-20210119171713841](https://cdn.fangyuanxiaozhan.com/assets/16110505635414WFfxxWG.png)
@@ -147,18 +174,47 @@ git pull && git add _posts && git commit -m "update" && git push
 
 
 
-Github README.md显示效果
+###  Github README.md显示效果,（新增的文章排在首位）
 
 
 
 ![image-20210119184015781](https://cdn.fangyuanxiaozhan.com/assets/1611052816321Kp8zQp1X.png)
 
-网站显示效果
+
+
+### WordPress网站也同步发布了文章
 
 ![image-20210119182849720](https://cdn.fangyuanxiaozhan.com/assets/1611052130277KNhYZbzz.png)
 
+[https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/](https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/)
 
 
-代码永久开源更新地址
+
+## 如何用手机完成博客更新操作？
+
+
+
+![微信图片_20210119192838](https://cdn.fangyuanxiaozhan.com/assets/1611055742642mZi0Ey36.jpeg)
+
+用锤子便签，可以优雅舒适地写Markdown，手机App很好用，还有网页版可以用，有5GB的免费空间，能写到锤子倒闭。
+
+如果遇到插入图片的问题，可以使用 免费图床图壳
+
+[https://imgkr.com/#upload](https://imgkr.com/#upload)
+
+Pocket Git 和 MT管理器可以配合完成Git 文件的新增更新和上传。
+
+
+
+
+
+### 程序永久开源更新地址(求Star):
+
+
 
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
+
+
+
+当我们把毕生所学，通过几十年如一日的博客更新，逐步开源到互联网上时，必将会造福更多志同道合的人。
+
