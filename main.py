@@ -7,7 +7,7 @@ import os
 from hashlib import md5, sha1
 import json
 import markdown
-
+import re
 
 config_file_txt = ""
 
@@ -24,20 +24,21 @@ with open (config_file_txt, 'rb') as f:
     config_info = json.loads(f.read())
 
 
-username = config_info["username"]
-password = config_info["password"]
-xmlrpc_php = config_info["xmlrpc_php"]
+username = config_info["USERNAME"]
+password = config_info["PASSWORD"]
+xmlrpc_php = config_info["XMLRPC_PHP"]
 
 try:
     if(os.environ["USERNAME"]):
         username = os.environ["USERNAME"]
-        print("=os=username==", username)
 
     if(os.environ["PASSWORD"]):
         password = os.environ["PASSWORD"]
-        print("=os=password==", password)
+
+    if(os.environ["PASSWORD"]):
+        xmlrpc_php = os.environ["XMLRPC_PHP"]
 except:
-    print("无法获取github变量")
+    print("无法获取github的secrets配置信息,开始使用本地变量")
 
 
 url_info = urlparse(xmlrpc_php)
@@ -172,7 +173,6 @@ def get_md_sha1_dic(file):
     return result
 
 # 重建md_sha1_dic,将结果写入.md_sha1
-
 def rebuild_md_sha1_dic(file, md_dir):
     md_sha1_dic = {}
 
@@ -193,8 +193,37 @@ def post_link_id_list_2_link_id_dic(post_link_id_list):
 def href_info(link):
     return "<br/>\n---\n## 本文永久更新地址: \n[" + link + "](" + link + ")"
 
-def main():
+# 在README.md中插入信息文章索引信息，更容易获取google的收录
+def insert_index_info_in_readme():
+    # 获取_posts下所有markdown文件
+    md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
+    # 生成插入列表
+    insert_info = ""
+    # 读取md_list中的文件标题
+    for md in md_list:
+        (content, metadata) = read_md(md)
+        title = metadata.get("title", "")
+        insert_info = insert_info + "[" + title +"](" + "https://"+domain_name + "/p/" + os.path.basename(md).split(".")[0] +"/" + ")\n"
+    # 替换 ---start--- 到 ---end--- 之间的内容
 
+    insert_info = "---start---\n## 目录\n" + insert_info + "---end---"
+
+    # 获取README.md内容
+    with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
+        readme_md_content = f.read()
+
+    print(insert_info)
+    print(readme_md_content)
+
+    new_readme_md_content = re.sub(r'---start---(.|\n)*---end---', insert_info, readme_md_content)
+
+    with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
+        f.write(new_readme_md_content)
+
+
+    return True
+
+def main():
     # 1. 获取网站数据库中已有的文章列表
     post_link_id_list = get_posts()
     print(post_link_id_list)
@@ -238,6 +267,7 @@ def main():
                 edit_post(id, title, content, link, post_status, terms_names_post_tag, terms_names_category)
     # 4. 重建md_sha1_dic
     rebuild_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"), os.path.join(os.getcwd(), "_posts"))
-
+    # 5. 将链接信息写入insert_index_info_in_readme
+    insert_index_info_in_readme()
 
 main()

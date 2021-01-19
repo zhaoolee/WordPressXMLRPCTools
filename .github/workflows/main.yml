@@ -16,6 +16,7 @@ jobs:
         env:
             USERNAME: ${{ secrets.USERNAME }}
             PASSWORD: ${{ secrets.PASSWORD }}
+            XMLRPC_PHP: ${{ secrets.XMLRPC_PHP }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: run build # Run custom `test` command defined in the `[scripts]` block of Pipfile
+          command: run build

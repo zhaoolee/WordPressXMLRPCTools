@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [scripts]
-push = "git add . && git commit -m '更新文章' && git push"
-build = "python main.py"
-test = "python test.py"
-new = "python new.py"
+push = "git add _posts && git commit -m '更新文章' && git push"
+build = "git pull && python main.py"
 
 [packages]
 markdown = "3.3.3"
