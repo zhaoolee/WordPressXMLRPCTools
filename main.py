@@ -178,7 +178,8 @@ def rebuild_md_sha1_dic(file, md_dir):
     for md in md_list:
         key = os.path.basename(md)
         value = get_sha1(md)
-    md_sha1_dic[key] = value
+        md_sha1_dic[key] = value
+
     write_dic_info_to_file(md_sha1_dic, file)
 
 def post_link_id_list_2_link_id_dic(post_link_id_list):
@@ -186,6 +187,7 @@ def post_link_id_list_2_link_id_dic(post_link_id_list):
     for post in post_link_id_list:
         link_id_dic[post["link"]] = post["id"]
     return link_id_dic
+
 
 def href_info(link):
     return "<br/>\n---\n## 本文永久更新地址: \n[" + link + "](" + link + ")"
