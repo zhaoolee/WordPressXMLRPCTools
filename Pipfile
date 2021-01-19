@@ -5,7 +5,7 @@ name = "pypi"
 
 [scripts]
 push = "git add _posts && git commit -m '更新文章' && git push"
-build = "git pull && python main.py"
+build = "python main.py"
 
 [packages]
 markdown = "3.3.3"
