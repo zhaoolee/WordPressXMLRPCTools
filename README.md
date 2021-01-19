@@ -8,6 +8,8 @@
 
 [zhaoolee的Github主页](https://fangyuanxiaozhan.com/p/2020-01-17-zhaoolee/)
 
+[用Github Actions运行Python脚本更新仓库博客到WordPress，手机写Markdown同步更新到Github和WordPress攻略](https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/)
+
 ---end---
 
 
