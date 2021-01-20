@@ -32,7 +32,7 @@
 
 
 
-![image-20210119181051609](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033557RhdS4nmK.png)
+![image-20210119181051609](https://cdn.fangyuanxiaozhan.com/assets/1611051052118Z21Pjrw0.png)
 
 
 
@@ -49,11 +49,11 @@ WordPress默认开启了xmlrpc服务，xmlrpc是一套的统用的博客更新�
 
 我的WordPress网站为 [https://fangyuanxiaozhan.com](https://fangyuanxiaozhan.com) 
 
-![image-20210119180338929](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033711jFFFRE3D.png)
+![image-20210119180338929](https://cdn.fangyuanxiaozhan.com/assets/1611050619442hkaG1NDn.png)
 
 它的xmlrpc服务地址为  [https://fangyuanxiaozhan.com/xmlrpc.php](https://fangyuanxiaozhan.com/xmlrpc.php)
 
-![image-20210119180403270](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033808cFthmwwi.png)
+![image-20210119180403270](https://cdn.fangyuanxiaozhan.com/assets/16110506437483MaczC3Y.png)
 
 
 
@@ -61,13 +61,13 @@ WordPress默认开启了xmlrpc服务，xmlrpc是一套的统用的博客更新�
 
 Github Actions 可以让我们无需安装开发环境，即可完成代码的运行。
 
-![image-20210119180656968](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033850KpH03KNE.png)
+![image-20210119180656968](https://cdn.fangyuanxiaozhan.com/assets/1611050817427Fh7XEfch.png)
 
 对于本项目而言，我可以用手机版Git App，或者Github网页完成新建文章, 然后push到仓库，Github Actions会自动帮我完成相关代码运行，代码可以帮我更新文章到WordPress网站，并生成新的文章目录索引，并自动给你更新到README.md, 供搜索引擎收录。
 
 
 
-![image-20210119180529083](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033950bTXn7Skr.png)
+![image-20210119180529083](https://cdn.fangyuanxiaozhan.com/assets/1611050729538mchrFAQJ.png)
 
 
 ### 如何保护自己的WordPress账户密码？
@@ -89,7 +89,7 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 
 
 
-![image-20210119173133800](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/16111230341284PaHwCDm.png)
+![image-20210119173133800](https://cdn.fangyuanxiaozhan.com/assets/1611050563553icaXAiM0.png)
 
 
 
@@ -97,7 +97,7 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 
 在`_post` 目录下新建 后缀为 `.md` 的markdown文件即可
 
-![image-20210119181544158](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/16111230342738acPGWSM.png)
+![image-20210119181544158](https://cdn.fangyuanxiaozhan.com/assets/1611051344640n8z2ZTW2.png)
 
 
 
@@ -137,7 +137,7 @@ categories:
 标签(tags)是针对单篇文章的关键词，比如香蕉的标签有 **黄色**，**味甜** （标签是香蕉的属性）
 分类(categories)是本篇文章的归属，比如香蕉的分类为 **水果**，**植物** 
 
-![image-20210119182027684](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123034368EXM02d37.png)
+![image-20210119182027684](https://cdn.fangyuanxiaozhan.com/assets/1611051628229xrNmfEkC.png)
 
 ###  如何设置固定链接？
 
@@ -154,7 +154,7 @@ categories:
 
 
 
-![image-20210119171713841](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123034673aad52Amb.png)
+![image-20210119171713841](https://cdn.fangyuanxiaozhan.com/assets/16110505635414WFfxxWG.png)
 
 
 
@@ -168,13 +168,13 @@ categories:
 git pull && git add _posts && git commit -m "update" && git push
 ```
 
-![image-20210119182503520](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123034888HbKthGTh.png)
+![image-20210119182503520](https://cdn.fangyuanxiaozhan.com/assets/1611051904013p4WCHxex.png)
 
 即可！
 
 
 
-![image-20210119182653436](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036038n18wBCfT.png)
+![image-20210119182653436](https://cdn.fangyuanxiaozhan.com/assets/16110520138793TGD6cHN.png)
 
 
 
@@ -182,13 +182,13 @@ git pull && git add _posts && git commit -m "update" && git push
 
 
 
-![image-20210119184015781](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/16111230361713668ZtFR.png)
+![image-20210119184015781](https://cdn.fangyuanxiaozhan.com/assets/1611052816321Kp8zQp1X.png)
 
 
 
 ### WordPress网站也同步发布了文章
 
-![image-20210119182849720](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036272XED7hTE0.png)
+![image-20210119182849720](https://cdn.fangyuanxiaozhan.com/assets/1611052130277KNhYZbzz.png)
 
 [https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/](https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/)
 
@@ -198,7 +198,7 @@ git pull && git add _posts && git commit -m "update" && git push
 
 
 
-![微信图片_20210119192838](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036503KhBJRrpj.jpeg)
+![微信图片_20210119192838](https://cdn.fangyuanxiaozhan.com/assets/1611055742642mZi0Ey36.jpeg)
 
 用锤子便签，可以优雅舒适地写Markdown，手机App很好用，还有网页版可以用，有5GB的免费空间，能写到锤子倒闭。
 
