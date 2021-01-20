@@ -67,6 +67,7 @@ def create_post_obj(title, content, link, post_status, terms_names_post_tag, ter
     post_obj.content = content
     post_obj.link = link
     post_obj.post_status = post_status
+    post_obj.comment_status = "open"
     print(post_obj.link)
     post_obj.terms_names = {
         #文章所属标签，没有则自动创建
