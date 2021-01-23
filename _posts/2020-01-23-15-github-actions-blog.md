@@ -9,11 +9,9 @@ categories:
 
 我在Github的用户名为zhaoolee，如果我在Github中建立一个名为zhaoolee的仓库，那zhaoolee仓库中READNE.md的内容，便会展现到github主页顶部。更有趣的是，如果给仓库编写一个脚本，就可以利用Github Actions自动更新主页的内容。
 
-
-
 我有两个网站**V2方圆**和**方圆小站**，我通过Github Actions设置了一个每隔15分钟自动运行的任务，任务内的程序会自动爬取**V2方圆**和**方圆小站**的前三篇内容，并将链接更新到我的Github主页。当用免费的Github Actions为自己的博客引流时，我体会到了白嫖的快乐，获得了Github长期的优质流量。
 
-![image-20210123160311592](https://cdn.fangyuanxiaozhan.com/assets/1611388991979Mkpibtet.png)
+![image](https://cdn.fangyuanxiaozhan.com/assets/1611388991979Mkpibtet.png)
 
 ####  Python脚本如下
 
