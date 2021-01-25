@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2021年01月25日更新)
+[简单三步, 搭建全平台私有同步网盘](https://fangyuanxiaozhan.com/p/2020-01-25-19/)
+
 [让Css3动画变得有趣WOWjs](https://fangyuanxiaozhan.com/p/2020-01-25-18/)
 
 [193MB的 Office 2016 四合一精简版，支持 win7 win8 win8.1 win10 x86/x64 系统](https://fangyuanxiaozhan.com/p/2020-01-24-office2016/)
