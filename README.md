@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2021年01月25日更新)
+[解决Chrome开发中http强制跳转https](https://fangyuanxiaozhan.com/p/2021-01-25-24/)
+
 [Node.js爬虫获取漫威超级英雄电影海报](https://fangyuanxiaozhan.com/p/2021-01-25-23/)
 
 [InDesign转曲字体 导出PDF的技巧](https://fangyuanxiaozhan.com/p/2021-01-25-22/)
