@@ -1,7 +1,23 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年01月23日更新)
+## 目录(2021年01月25日更新)
+[解决Chrome开发中http强制跳转https](https://fangyuanxiaozhan.com/p/2021-01-25-24/)
+
+[Node.js爬虫获取漫威超级英雄电影海报](https://fangyuanxiaozhan.com/p/2021-01-25-23/)
+
+[InDesign转曲字体 导出PDF的技巧](https://fangyuanxiaozhan.com/p/2021-01-25-22/)
+
+[Python写给前端的脚本！网站图片素材中文转英文](https://fangyuanxiaozhan.com/p/2020-01-25-21/)
+
+[B站黑白滤镜](https://fangyuanxiaozhan.com/p/2020-01-25-20/)
+
+[简单三步, 搭建全平台私有同步网盘](https://fangyuanxiaozhan.com/p/2020-01-25-19/)
+
+[让Css3动画变得有趣WOWjs](https://fangyuanxiaozhan.com/p/2020-01-25-18/)
+
+[193MB的 Office 2016 四合一精简版，支持 win7 win8 win8.1 win10 x86/x64 系统](https://fangyuanxiaozhan.com/p/2020-01-24-office2016/)
+
 [使用Github Actions 动态更新Github主页](https://fangyuanxiaozhan.com/p/2020-01-23-15-github-actions-blog/)
 
 [《百度网盘闲时下载卡》别家公司996, 我百度凌晨1点刚上线，如何改进闲时下载卡？Make Baidu Great Again！](https://fangyuanxiaozhan.com/p/2020-01-21-13-baidupan/)
