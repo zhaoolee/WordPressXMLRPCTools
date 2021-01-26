@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年01月25日更新)
+## 目录(2021年01月26日更新)
+[PP鸭最佳替代品！《图压》批量压缩图片而不损失画质，支持JPG,PNG,GIF,SVG](https://fangyuanxiaozhan.com/p/2021-01-26-13/)
+
 [解决Chrome开发中http强制跳转https](https://fangyuanxiaozhan.com/p/2021-01-25-24/)
 
 [Node.js爬虫获取漫威超级英雄电影海报](https://fangyuanxiaozhan.com/p/2021-01-25-23/)
@@ -16,7 +18,7 @@
 
 [让Css3动画变得有趣WOWjs](https://fangyuanxiaozhan.com/p/2020-01-25-18/)
 
-[193MB的 Office 2016 四合一精简版，支持 win7 win8 win8.1 win10 x86/x64 系统](https://fangyuanxiaozhan.com/p/2020-01-24-office2016/)
+[193MB的 Office 2016 四合一精简珍藏版，支持 win7 win8 win8.1 win10 x86/x64 系统](https://fangyuanxiaozhan.com/p/2020-01-24-office2016/)
 
 [使用Github Actions 动态更新Github主页](https://fangyuanxiaozhan.com/p/2020-01-23-15-github-actions-blog/)
 
