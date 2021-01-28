@@ -1,7 +1,7 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年01月26日更新)
+## 目录(2021年01月28日更新)
 [PP鸭最佳替代品！《图压》批量压缩图片而不损失画质，支持JPG,PNG,GIF,SVG](https://fangyuanxiaozhan.com/p/2021-01-26-13/)
 
 [解决Chrome开发中http强制跳转https](https://fangyuanxiaozhan.com/p/2021-01-25-24/)
@@ -9,6 +9,8 @@
 [Node.js爬虫获取漫威超级英雄电影海报](https://fangyuanxiaozhan.com/p/2021-01-25-23/)
 
 [InDesign转曲字体 导出PDF的技巧](https://fangyuanxiaozhan.com/p/2021-01-25-22/)
+
+[轻薄的代价（纪念不足两岁MacBook轻薄本的陨落）](https://fangyuanxiaozhan.com/p/2020-01-28-09/)
 
 [Python写给前端的脚本！网站图片素材中文转英文](https://fangyuanxiaozhan.com/p/2020-01-25-21/)
 
