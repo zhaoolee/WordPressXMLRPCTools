@@ -34,7 +34,7 @@ try:
     if(os.environ["PASSWORD"]):
         password = os.environ["PASSWORD"]
 
-    if(os.environ["PASSWORD"]):
+    if(os.environ["XMLRPC_PHP"]):
         xmlrpc_php = os.environ["XMLRPC_PHP"]
 except:
     print("无法获取github的secrets配置信息,开始使用本地变量")
