@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年02月27日更新)
+## 目录(2021年03月04日更新)
+[计算机本科生从业金融两年的经验](https://fangyuanxiaozhan.com/p/2021-03-04-15/)
+
 [macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
 
 [《刺杀小说家》一个勇士屠恶龙救苍生的故事](https://fangyuanxiaozhan.com/p/2021-02-17-xiaoshuojia/)
