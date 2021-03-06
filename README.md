@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年03月04日更新)
+## 目录(2021年03月06日更新)
+[重看经典动漫《火影忍者》的一些感受](https://fangyuanxiaozhan.com/p/2021-03-06-huoying/)
+
 [计算机本科生从业金融两年的经验](https://fangyuanxiaozhan.com/p/2021-03-04-15/)
 
 [macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
