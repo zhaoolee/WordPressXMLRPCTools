@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年03月07日更新)
+## 目录(2021年03月11日更新)
+[原神如何从腾讯游戏的口中抢到肉?](https://fangyuanxiaozhan.com/p/2021-03-11-yuanshen/)
+
 [「简书营销号」是非常邪门的黑色幽默，也就比百度莆田系好了那么一丢丢……](https://fangyuanxiaozhan.com/p/2021-03-07-jianshu/)
 
 [重看经典动漫《火影忍者》的一些感受](https://fangyuanxiaozhan.com/p/2021-03-06-huoying/)
