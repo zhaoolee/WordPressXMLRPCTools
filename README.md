@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年03月14日更新)
+## 目录(2021年03月15日更新)
+[Github可白嫖的Pages和Actions有什么用?](https://fangyuanxiaozhan.com/p/2021-03-15-github/)
+
 [《原神》手残玩家如何获得紧张刺激的游戏体验?](https://fangyuanxiaozhan.com/p/2021-03-14-yuanshen/)
 
 [《游戏摄影》原神](https://fangyuanxiaozhan.com/p/2021-03-12-yuanshen-images/)
