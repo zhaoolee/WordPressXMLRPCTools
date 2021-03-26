@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年03月25日更新)
+## 目录(2021年03月26日更新)
+[编程语言很流行，并不是因为它很优秀，而是因为它很简单](https://fangyuanxiaozhan.com/p/2021-03-26-code/)
+
 [一加8 线刷官方ColorOS尝鲜版遇到的各种问题及解决方案](https://fangyuanxiaozhan.com/p/2021-03-25-oneplus-coloros/)
 
 [等90后00后老了，如何忽悠TA们?](https://fangyuanxiaozhan.com/p/2021-03-23-9000-money/)
