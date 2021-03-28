@@ -1,7 +1,11 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年03月26日更新)
+## 目录(2021年03月28日更新)
+[换个思路, 把简书当知识便签来用，能省很多时间，还能打造个人IP，积累粉丝](https://fangyuanxiaozhan.com/p/2021-03-28-note/)
+
+[如何用简书打造自媒体影响力？简书生态烂，水文多，但支持md免费全平台笔记就剩它了(无奈脸)](https://fangyuanxiaozhan.com/p/2021-03-28-jianshu/)
+
 [编程语言很流行，并不是因为它很优秀，而是因为它很简单](https://fangyuanxiaozhan.com/p/2021-03-26-code/)
 
 [摄影是一门接地气的混合艺术](https://fangyuanxiaozhan.com/p/2021-03-26-camera/)
@@ -10,7 +14,7 @@
 
 [等90后00后老了，如何忽悠TA们?](https://fangyuanxiaozhan.com/p/2021-03-23-9000-money/)
 
-[网游厂商与玩家之间为何会产生矛盾?](https://fangyuanxiaozhan.com/p/2021-03-21-game-player/)
+[游戏厂商与玩家之间的矛盾](https://fangyuanxiaozhan.com/p/2021-03-21-game-player/)
 
 [完美远程办公网络配置的研究（支持无缝使用内网服务，高速魔法上网）](https://fangyuanxiaozhan.com/p/2021-03-18-work-net/)
 
