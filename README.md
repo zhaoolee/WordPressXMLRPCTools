@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年04月01日更新)
+## 目录(2021年04月04日更新)
+[假期从深圳到长沙玩，忽然不想奋斗了](https://fangyuanxiaozhan.com/p/2021-04-04-changsha/)
+
 [在深圳某社康接种新冠疫苗的经历](https://fangyuanxiaozhan.com/p/2021-04-01-miao/)
 
 [换个思路, 把简书当知识便签来用，能省很多时间，还能打造个人IP，积累粉丝](https://fangyuanxiaozhan.com/p/2021-03-28-note/)
