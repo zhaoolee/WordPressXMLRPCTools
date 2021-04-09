@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年04月08日更新)
+## 目录(2021年04月09日更新)
+[未来取代微信的社交产品，或许是一个云服务的插件](https://fangyuanxiaozhan.com/p/2021-04-09-08-52-58-wechat-final/)
+
 [一个25岁金融行业程序员对未来生活的规划](https://fangyuanxiaozhan.com/p/2021-04-08-08-48-47-future/)
 
 [不刷抖音/tiktok的N个理由](https://fangyuanxiaozhan.com/p/2021-04-07-09-09-49-tiktok/)
