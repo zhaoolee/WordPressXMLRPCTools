@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年04月09日更新)
+## 目录(2021年04月10日更新)
+[《进击的巨人》展现了日本羸弱的二次元文化](https://fangyuanxiaozhan.com/p/2021-04-10-17-32-06-attack-on-titan/)
+
 [未来取代微信的社交产品，或许是一个云服务的插件](https://fangyuanxiaozhan.com/p/2021-04-09-08-52-58-wechat-final/)
 
 [一个25岁金融行业程序员对未来生活的规划](https://fangyuanxiaozhan.com/p/2021-04-08-08-48-47-future/)
