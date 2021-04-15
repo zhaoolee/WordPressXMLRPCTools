@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年04月14日更新)
+## 目录(2021年04月15日更新)
+[内容生产者的困境](https://fangyuanxiaozhan.com/p/2021-04-15-19-48-50-content/)
+
 [程序员绝对是一个容易发胖的职业!程序员的自我修养:控制体重多运动](https://fangyuanxiaozhan.com/p/2021-04-14-22-19-38-hit/)
 
 [《进击的巨人》展现了日本羸弱的二次元文化](https://fangyuanxiaozhan.com/p/2021-04-10-17-32-06-attack-on-titan/)
