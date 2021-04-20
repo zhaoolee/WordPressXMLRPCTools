@@ -1,0 +1,1 @@
+touch  ./_posts/$(date "+%Y-%m-%d-%H-%M-%S-文件名.md")
