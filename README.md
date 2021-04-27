@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2021年04月27日更新)
-[如何创建并长期维护一个Github开源项目](https://fangyuanxiaozhan.com/p/2021-04-27-17-11-56-program/)
+[如何规划创建并长期维护一个Github开源项目?](https://fangyuanxiaozhan.com/p/2021-04-27-17-11-56-program/)
 
 [玩黑苹果的一些经验](https://fangyuanxiaozhan.com/p/2021-04-26-15-47-29-apple/)
 
