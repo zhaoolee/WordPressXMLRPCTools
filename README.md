@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2021年04月28日更新)
-[macOS有哪些不如Windows的方面?](https://fangyuanxiaozhan.com/p/2021-04-28-08-33-52-windows-mac/)
+[macOS哪些方面不如Windows?](https://fangyuanxiaozhan.com/p/2021-04-28-08-33-52-windows-mac/)
 
 [如何规划创建并长期维护一个Github开源项目?](https://fangyuanxiaozhan.com/p/2021-04-27-17-11-56-program/)
 
