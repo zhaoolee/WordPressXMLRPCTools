@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月02日更新)
+## 目录(2021年05月06日更新)
+[明基SW270C上手体验](https://fangyuanxiaozhan.com/p/2021-05-06-09-31-38-benq-sw270c/)
+
 [QQ潮玩展(QTX)摄影作品(zhaoolee出品)](https://fangyuanxiaozhan.com/p/2021-05-02-23-04-28-qq/)
 
 [用微信公众号写博客就是玩，要动真格的还是得WordPress!](https://fangyuanxiaozhan.com/p/2021-04-30-17-07-48-wordpress/)
