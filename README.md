@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月06日更新)
+## 目录(2021年05月07日更新)
+[如何写一个开源的灵感导航站？](https://fangyuanxiaozhan.com/p/2021-05-07-20-05-48-fangyuan-in/)
+
 [明基SW270C上手体验](https://fangyuanxiaozhan.com/p/2021-05-06-09-31-38-benq-sw270c/)
 
 [QQ潮玩展(QTX)摄影作品(zhaoolee出品)](https://fangyuanxiaozhan.com/p/2021-05-02-23-04-28-qq/)
