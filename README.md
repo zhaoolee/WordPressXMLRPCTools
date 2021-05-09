@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月07日更新)
+## 目录(2021年05月09日更新)
+[开源新概念导航站需要什么功能及如何运营？](https://fangyuanxiaozhan.com/p/2021-05-09-15-17-23-in/)
+
 [如何写一个开源的灵感导航站？](https://fangyuanxiaozhan.com/p/2021-05-07-20-05-48-fangyuan-in/)
 
 [明基SW270C上手体验](https://fangyuanxiaozhan.com/p/2021-05-06-09-31-38-benq-sw270c/)
