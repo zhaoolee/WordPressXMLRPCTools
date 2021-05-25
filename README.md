@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月21日更新)
+## 目录(2021年05月25日更新)
+[全职自媒体如何一步步做成臭要饭的？](https://fangyuanxiaozhan.com/p/2021-05-25-17-50-52-self-media/)
+
 [Github《章鱼猫六兄贵》我用AE做了一张公众号拉客Gif图](https://fangyuanxiaozhan.com/p/2021-05-21-14-38-12-ae/)
 
 [最懂程序员面试的人，不一定是最优秀的开发者](https://fangyuanxiaozhan.com/p/2021-05-12-21-22-33-dev/)
