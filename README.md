@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月28日更新)
+## 目录(2021年05月30日更新)
+[中国的房地产，挤公交地铁的打工人，需要哆啦A梦的任意门](https://fangyuanxiaozhan.com/p/2021-05-31-00-05-46-office/)
+
 [焦虑腐蚀教育，崩坏技术社区](https://fangyuanxiaozhan.com/p/2021-05-28-20-11-54-it/)
 
 [如果每次听人爆粗Win10能收到一块钱，我特么早就发了…](https://fangyuanxiaozhan.com/p/2021-05-28-20-10-42-windows/)
