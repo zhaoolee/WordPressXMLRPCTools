@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月30日更新)
+## 目录(2021年06月01日更新)
+[专家建议把三娃托管到Github, 每天上线看一眼有多少Star...](https://fangyuanxiaozhan.com/p/2021-06-01-09-51-49-three/)
+
 [中国的房地产，挤公交地铁的打工人，需要哆啦A梦的任意门](https://fangyuanxiaozhan.com/p/2021-05-31-00-05-46-office/)
 
 [焦虑腐蚀教育，崩坏技术社区](https://fangyuanxiaozhan.com/p/2021-05-28-20-11-54-it/)
