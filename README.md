@@ -1,7 +1,15 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年05月25日更新)
+## 目录(2021年05月30日更新)
+[中国的房地产，挤公交地铁的打工人，需要哆啦A梦的任意门](https://fangyuanxiaozhan.com/p/2021-05-31-00-05-46-office/)
+
+[焦虑腐蚀教育，崩坏技术社区](https://fangyuanxiaozhan.com/p/2021-05-28-20-11-54-it/)
+
+[如果每次听人爆粗Win10能收到一块钱，我特么早就发了…](https://fangyuanxiaozhan.com/p/2021-05-28-20-10-42-windows/)
+
+[Apple大法好，法器不能用金钱来衡量~](https://fangyuanxiaozhan.com/p/2021-05-28-20-08-36-apple/)
+
 [全职自媒体如何一步步做成臭要饭的？](https://fangyuanxiaozhan.com/p/2021-05-25-17-50-52-self-media/)
 
 [Github《章鱼猫六兄贵》我用AE做了一张公众号拉客Gif图](https://fangyuanxiaozhan.com/p/2021-05-21-14-38-12-ae/)
