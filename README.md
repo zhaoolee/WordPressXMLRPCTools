@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2021年06月02日更新)
-[运营微信公众号个人号面临的各种问题(写给2021年想开始公众号运营的身边)](https://fangyuanxiaozhan.com/p/2021-06-02-14-45-57-weixin-blog/)
+[运营微信公众号个人号面临的各种问题(写给2021年想开始公众号运营的身边人)](https://fangyuanxiaozhan.com/p/2021-06-02-14-45-57-weixin-blog/)
 
 [专家建议把三娃托管到Github, 每天上线看一眼有多少Star...](https://fangyuanxiaozhan.com/p/2021-06-01-09-51-49-three/)
 
