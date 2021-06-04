@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年06月03日更新)
+## 目录(2021年06月04日更新)
+[鸿蒙来了, 风口来了, 呼唤罗永浩老师回来做手机,Markdown爱好者zhaoolee为了在微信公众号使用锤子便签主题，自己花20分钟写了一个](https://fangyuanxiaozhan.com/p/2021-06-04-09-27-28-mdnice/)
+
 [华为鸿蒙来了! 安卓和iOS也要变好了](https://fangyuanxiaozhan.com/p/2021-06-03-08-51-22-harmony/)
 
 [运营微信公众号个人号面临的各种问题(写给2021年想开始公众号运营的身边人)](https://fangyuanxiaozhan.com/p/2021-06-02-14-45-57-weixin-blog/)
