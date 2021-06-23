@@ -1,7 +1,11 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年06月11日更新)
+## 目录(2021年06月23日更新)
+[知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
+
+[自建BBS站有什么好处?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
+
 [如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
 
 [鸿蒙来了, 风口来了, 呼唤罗永浩老师回来做手机,Markdown爱好者zhaoolee为了在微信公众号使用锤子便签主题，自己花20分钟写了一个](https://fangyuanxiaozhan.com/p/2021-06-04-09-27-28-mdnice/)
