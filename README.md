@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年06月23日更新)
+## 目录(2021年07月16日更新)
+[知识是免费的，若想快速掌握，需要金钱的加持](https://fangyuanxiaozhan.com/p/2021-07-16-09-53-55-serve/)
+
 [知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
 
 [自建BBS站有什么好处?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
