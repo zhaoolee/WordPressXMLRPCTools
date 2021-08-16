@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年08月14日更新)
+## 目录(2021年08月16日更新)
+[想为女性争取权利，应将成年女性成为「劳动妇女」，而不是「小仙女」](https://fangyuanxiaozhan.com/p/2021-08-16-09-22-53-quan/)
+
 [减少电子产品对环境影响的唯一最佳方法是延长它们的使用寿命](https://fangyuanxiaozhan.com/p/2021-08-14-14-54-52-framework/)
 
 [试水谷歌星际尺度开源工具k8s一手体验](https://fangyuanxiaozhan.com/p/2021-07-28-17-23-37-k8s/)
