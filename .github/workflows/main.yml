@@ -25,7 +25,6 @@ jobs:
           run: python main.py
       - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
         run: |
-          git diff
           git config --global user.email "zhaoolee@gmail.com"
           git config --global user.name "zhaoolee"
           git add .md_sha1 README.md
