@@ -22,7 +22,7 @@ jobs:
             XMLRPC_PHP: ${{ secrets.XMLRPC_PHP }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: run build
+          run: python main.py
       - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
         run: |
           git diff
