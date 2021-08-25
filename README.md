@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年08月20日更新)
+## 目录(2021年08月25日更新)
+[我是linus，你们的上帝！](https://fangyuanxiaozhan.com/p/2021-08-25-11-03-03-linus/)
+
 [8分故事2分代码的编程故事教程](https://fangyuanxiaozhan.com/p/2021-08-20-15-24-43-play/)
 
 [虚构推理 与 魔女之旅](https://fangyuanxiaozhan.com/p/2021-08-16-10-56-03-mounv/)
