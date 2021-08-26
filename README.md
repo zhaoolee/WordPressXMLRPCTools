@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年08月25日更新)
+## 目录(2021年08月26日更新)
+[RSS优质内容订阅交流群](https://fangyuanxiaozhan.com/p/2021-08-26-18-05-01-rss/)
+
 [我是linus，你们的上帝！](https://fangyuanxiaozhan.com/p/2021-08-25-11-03-03-linus/)
 
 [8分故事2分代码的编程故事教程](https://fangyuanxiaozhan.com/p/2021-08-20-15-24-43-play/)
