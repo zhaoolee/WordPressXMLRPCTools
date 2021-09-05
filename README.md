@@ -1,7 +1,29 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年06月11日更新)
+## 目录(2021年08月27日更新)
+[RSS优质内容订阅交流群](https://fangyuanxiaozhan.com/p/2021-08-26-18-05-01-rss/)
+
+[我是linus，你们的上帝！](https://fangyuanxiaozhan.com/p/2021-08-25-11-03-03-linus/)
+
+[8分故事2分代码的编程故事教程](https://fangyuanxiaozhan.com/p/2021-08-20-15-24-43-play/)
+
+[虚构推理 与 魔女之旅](https://fangyuanxiaozhan.com/p/2021-08-16-10-56-03-mounv/)
+
+[为女性争取权利，应将成年女性称为「劳动妇女」，而不是「小仙女」](https://fangyuanxiaozhan.com/p/2021-08-16-09-22-53-quan/)
+
+[减少电子产品对环境影响的唯一最佳方法是延长它们的使用寿命](https://fangyuanxiaozhan.com/p/2021-08-14-14-54-52-framework/)
+
+[试水谷歌星际尺度开源工具k8s一手体验](https://fangyuanxiaozhan.com/p/2021-07-28-17-23-37-k8s/)
+
+[理工男生资源达人的梦想,树莓派低成本创造私人专属互联网的构想](https://fangyuanxiaozhan.com/p/2021-07-21-10-02-55-pi/)
+
+[知识是免费的，若想快速掌握，需要金钱的加持](https://fangyuanxiaozhan.com/p/2021-07-16-09-53-55-serve/)
+
+[知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
+
+[自建BBS站有什么好处?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
+
 [如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
 
 [鸿蒙来了, 风口来了, 呼唤罗永浩老师回来做手机,Markdown爱好者zhaoolee为了在微信公众号使用锤子便签主题，自己花20分钟写了一个](https://fangyuanxiaozhan.com/p/2021-06-04-09-27-28-mdnice/)
