@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年08月27日更新)
+## 目录(2021年09月07日更新)
+[如何选择长期使用的软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
+
 [RSS优质内容订阅交流群](https://fangyuanxiaozhan.com/p/2021-08-26-18-05-01-rss/)
 
 [我是linus，你们的上帝！](https://fangyuanxiaozhan.com/p/2021-08-25-11-03-03-linus/)
