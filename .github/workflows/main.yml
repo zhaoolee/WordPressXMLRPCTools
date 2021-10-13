@@ -13,7 +13,7 @@ jobs:
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
       - name: Run with setup-python 3.7
-        uses: actions/setup-python@2.2.2
+        uses: actions/setup-python@v2.2.2
         with:
           python-version: 3.7
       - name: Verify 3.7
