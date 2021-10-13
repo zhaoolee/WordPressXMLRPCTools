@@ -13,7 +13,7 @@ jobs:
       steps:
       - uses: actions/setup-python@v1 # Checking out the repo
       - name: Install dependecies
-        uses: VaultVulp/action-pipenv@v2.0.1
+        uses: actions/setup-python@v1
         with:
           command: install -d # Install all dependencies, including development ones
       - name: Build
