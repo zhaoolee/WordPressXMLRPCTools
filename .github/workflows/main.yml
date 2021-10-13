@@ -36,17 +36,16 @@ jobs:
 
       - name: Verify 3.7
         run: python __tests__/verify-python.py 3.7
-        with:
-          command: python -m pip install -d # Install all dependencies, including development ones
+
+      - name: install package
+        run: python -m pip install -d # Install all dependencies, including development ones
 
       - name: Build
         env:
             USERNAME: ${{ secrets.USERNAME }}
             PASSWORD: ${{ secrets.PASSWORD }}
             XMLRPC_PHP: ${{ secrets.XMLRPC_PHP }}
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: run build
+        run: python run build
       - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
         run: |
           git diff
