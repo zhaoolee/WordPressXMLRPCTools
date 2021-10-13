@@ -19,7 +19,7 @@ jobs:
       - name: Install pipenv
         uses: dschep/install-pipenv-action@v1
       - name: Install dependecies
-        run: pipenv run install --dev # Install all dependencies, including development ones
+        run: pipenv run install -d # Install all dependencies, including development ones
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
