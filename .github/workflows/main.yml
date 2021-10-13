@@ -17,9 +17,10 @@ jobs:
         with:
           python-version: 3.7
       - name: Install pipenv
-        uses: dschep/install-pipenv-action@v1
+        run: pip install pipenv
       - name: Install dependecies
-        run: pipenv run install -d # Install all dependencies, including development ones
+        run:  |
+          pipenv  install  --dev
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
