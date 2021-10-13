@@ -5,14 +5,16 @@ on:
       - main
 jobs:
   push:
-      runs-on: ubuntu-18.04
+      runs-on: ${{ matrix.operating-system }}
       strategy:
         matrix:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
-          python-version:  ['3.7.7']
+          operating-system: [ubuntu-latest, windows-latest]
       steps:
+
       - name: Checkout
         uses: actions/checkout@v2
+
       - name: Set Node.js 12.x
         uses: actions/setup-node@v1
         with:
@@ -30,9 +32,14 @@ jobs:
       - name: Run with setup-python 3.7
         uses: ./
         with:
-            python-version: 3.7
-      with:
+          python-version: 3.7
+
+      - name: Verify 3.7
+        run: python __tests__/verify-python.py 3.7
+
+        with:
           command: python -m pip install -d # Install all dependencies, including development ones
+          
       - name: Build
         env:
             USERNAME: ${{ secrets.USERNAME }}
