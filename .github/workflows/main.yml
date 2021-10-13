@@ -11,10 +11,15 @@ jobs:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
           python-version:  ['3.7.7']
       steps:
-      - uses: actions/setup-python@v2 # Checking out the repo
-      - name: Install dependecies
-        uses: actions/setup-python@v2
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Run with setup-python 3.7
+        uses: ./
         with:
+            python-version: 3.7
+      - name: Verify 3.7
+            run: python __tests__/verify-python.py 3.7
+      with:
           command: install -d # Install all dependencies, including development ones
       - name: Build
         env:
