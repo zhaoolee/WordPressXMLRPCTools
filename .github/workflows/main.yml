@@ -9,7 +9,7 @@ jobs:
       strategy:
         matrix:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
-          python-version: ['3.7.4']
+          python-versions: [3.6, 3.7, 3.8, 3.9]
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
       - name: Install dependecies
