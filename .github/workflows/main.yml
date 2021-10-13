@@ -13,6 +13,20 @@ jobs:
       steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Set Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: npm install
+        run: npm install
+
+      - name: Lint
+        run: npm run format-check
+
+      - name: npm test
+        run: npm test
+
       - name: Run with setup-python 3.7
         uses: ./
         with:
@@ -20,7 +34,7 @@ jobs:
       - name: Verify 3.7
             run: python __tests__/verify-python.py 3.7
       with:
-          command: install -d # Install all dependencies, including development ones
+          command: python -m pip install -d # Install all dependencies, including development ones
       - name: Build
         env:
             USERNAME: ${{ secrets.USERNAME }}
