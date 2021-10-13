@@ -9,24 +9,27 @@ jobs:
       strategy:
         matrix:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
-          operating-system: [ubuntu-latest]
+          operating-system: [ubuntu-18.04]
       steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2 # Checking out the repo
       - name: Run with setup-python 3.7
-        uses: ./
+        uses: actions/setup-python@2.2.2
         with:
           python-version: 3.7
       - name: Verify 3.7
         run: python __tests__/verify-python.py 3.7
-      - name: install package
-        run: python -m pip install -d # Install all dependencies, including development ones
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d # Install all dependencies, including development ones
       - name: Build
         env:
             USERNAME: ${{ secrets.USERNAME }}
             PASSWORD: ${{ secrets.PASSWORD }}
             XMLRPC_PHP: ${{ secrets.XMLRPC_PHP }}
-        run: python run build
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run build
       - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
         run: |
           git diff
