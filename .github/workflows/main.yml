@@ -36,10 +36,9 @@ jobs:
 
       - name: Verify 3.7
         run: python __tests__/verify-python.py 3.7
-
         with:
           command: python -m pip install -d # Install all dependencies, including development ones
-          
+
       - name: Build
         env:
             USERNAME: ${{ secrets.USERNAME }}
