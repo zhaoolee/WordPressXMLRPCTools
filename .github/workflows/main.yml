@@ -16,8 +16,6 @@ jobs:
         uses: actions/setup-python@v2.2.2
         with:
           python-version: 3.7
-      - name: Verify 3.7
-        run: python __tests__/verify-python.py 3.7
       - name: Install dependecies
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
