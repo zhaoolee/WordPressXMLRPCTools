@@ -1,7 +1,11 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年09月07日更新)
+## 目录(2021年10月13日更新)
+[树莓派有什么好玩的？](https://fangyuanxiaozhan.com/p/2021-10-13-16-11-39-pi/)
+
+[想要任天堂Switch带来快乐，得加钱](https://fangyuanxiaozhan.com/p/2021-10-13-16-08-18-switch-oled/)
+
 [如何选择好软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
 
 [RSS优质内容订阅交流群](https://fangyuanxiaozhan.com/p/2021-08-26-18-05-01-rss/)
