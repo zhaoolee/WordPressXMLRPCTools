@@ -1,7 +1,13 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年10月13日更新)
+## 目录(2021年10月31日更新)
+[《沙丘》中国特供3D版真是安眠好电影](https://fangyuanxiaozhan.com/p/2021-10-31-09-22-20-shaqiu/)
+
+[一个衡水考出来的深圳打工人对内卷教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-10-31-09-21-01-hengshui/)
+
+[内容平台变广告平台，未来内容平台何去何从](https://fangyuanxiaozhan.com/p/2021-10-31-09-17-02-blog/)
+
 [树莓派有什么好玩的？](https://fangyuanxiaozhan.com/p/2021-10-13-16-11-39-pi/)
 
 [想要任天堂Switch带来快乐，得加钱](https://fangyuanxiaozhan.com/p/2021-10-13-16-08-18-switch-oled/)
