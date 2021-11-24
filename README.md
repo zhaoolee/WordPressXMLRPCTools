@@ -1,7 +1,13 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年10月31日更新)
+## 目录(2021年11月24日更新)
+[高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
+
+[一个衡水考出来的深圳打工人对教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-11-24-23-05-48-edu/)
+
+[海外版微信Telegram重新定义优秀产品](https://fangyuanxiaozhan.com/p/2021-11-24-22-59-31-telegram/)
+
 [《沙丘》中国特供3D版真是安眠好电影](https://fangyuanxiaozhan.com/p/2021-10-31-09-22-20-shaqiu/)
 
 [一个衡水考出来的深圳打工人对内卷教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-10-31-09-21-01-hengshui/)
