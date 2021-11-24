@@ -2,9 +2,9 @@
 
 ---start---
 ## 目录(2021年11月24日更新)
-[高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
+[极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
 
-[一个衡水考出来的深圳打工人对教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-11-24-23-05-48-edu/)
+[高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
 
 [海外版微信Telegram重新定义优秀产品](https://fangyuanxiaozhan.com/p/2021-11-24-22-59-31-telegram/)
 
