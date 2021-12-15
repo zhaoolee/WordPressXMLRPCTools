@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年11月24日更新)
+## 目录(2021年12月15日更新)
+[任天堂的Switch与苹果的iPhone，哪个更环保？](https://fangyuanxiaozhan.com/p/2021-12-15-19-22-25-switch/)
+
 [极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
 
 [高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
