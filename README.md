@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2021年12月18日更新)
+## 目录(2022年01月07日更新)
+[塞尔达荒野之息为什么让人上瘾?](https://fangyuanxiaozhan.com/p/2022-01-07-16-47-05-breath_of_the_wild/)
+
 [《误杀2》有的孩子是孩子，有的孩子不是普通孩子！](https://fangyuanxiaozhan.com/p/2021-12-18-13-47-19-wusha/)
 
 [任天堂的Switch与苹果的iPhone，哪个更环保？](https://fangyuanxiaozhan.com/p/2021-12-15-19-22-25-switch/)
