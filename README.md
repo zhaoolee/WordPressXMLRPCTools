@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年01月16日更新)
+## 目录(2022年01月17日更新)
+[小兔要奋斗，大兔想躺平，老兔稳中向好](https://fangyuanxiaozhan.com/p/2022-01-17-22-11-22-tuzi/)
+
 [好游戏是内容创作者瓶颈期的止痛药](https://fangyuanxiaozhan.com/p/2022-01-16-20-00-33-painkiller/)
 
 [荒野之息神庙和盾反弹反的设计分析](https://fangyuanxiaozhan.com/p/2022-01-10-14-29-58-shenmiao/)
