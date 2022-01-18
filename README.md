@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年01月17日更新)
+## 目录(2022年01月18日更新)
+[维护个人独立网站是为了保留发声渠道](https://fangyuanxiaozhan.com/p/2022-01-18-14-34-05-site/)
+
 [小兔要奋斗，大兔想躺平，老兔稳中向好](https://fangyuanxiaozhan.com/p/2022-01-17-22-11-22-tuzi/)
 
 [好游戏是内容创作者瓶颈期的止痛药](https://fangyuanxiaozhan.com/p/2022-01-16-20-00-33-painkiller/)
