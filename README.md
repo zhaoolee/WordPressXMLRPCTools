@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2022年03月27日更新)
+[长期隔离居家办公带来的问题](https://fangyuanxiaozhan.com/p/2022-03-27-16-00-23-home-office/)
+
 [疫情之下的深圳](https://fangyuanxiaozhan.com/p/2022-03-27-15-51-04-shenzhen-epidemic/)
 
 [拥有学习时间，只是幸运的偶然](https://fangyuanxiaozhan.com/p/2022-03-27-15-41-16-luck-learn/)
