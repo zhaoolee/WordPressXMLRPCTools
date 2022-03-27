@@ -2,6 +2,14 @@
 
 ---start---
 ## 目录(2022年03月27日更新)
+[疫情之下的深圳](https://fangyuanxiaozhan.com/p/2022-03-27-15-51-04-shenzhen-epidemic/)
+
+[拥有学习时间，只是幸运的偶然](https://fangyuanxiaozhan.com/p/2022-03-27-15-41-16-luck-learn/)
+
+[碎碎念, HR耍流氓, 人心就要亡](https://fangyuanxiaozhan.com/p/2022-03-27-15-38-29-hr/)
+
+[未来不写在八股文里](https://fangyuanxiaozhan.com/p/2022-03-27-15-36-28-interview/)
+
 [要增量,不要内卷](https://fangyuanxiaozhan.com/p/2022-03-27-15-32-58-not-involute/)
 
 [技术有国界，吾辈当自强](https://fangyuanxiaozhan.com/p/2022-03-04-21-41-46-react-vue/)
