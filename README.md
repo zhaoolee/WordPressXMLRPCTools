@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年03月04日更新)
+## 目录(2022年03月27日更新)
+[要增量,不要内卷](https://fangyuanxiaozhan.com/p/2022-03-27-15-32-58-not-involute/)
+
 [技术有国界，吾辈当自强](https://fangyuanxiaozhan.com/p/2022-03-04-21-41-46-react-vue/)
 
 [维护个人独立网站是为了保留发声渠道](https://fangyuanxiaozhan.com/p/2022-01-18-14-34-05-site/)
