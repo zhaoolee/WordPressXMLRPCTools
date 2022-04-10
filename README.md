@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年04月07日更新)
+## 目录(2022年04月10日更新)
+[电子游戏是第九艺术，PS5是艺术的载体](https://fangyuanxiaozhan.com/p/2022-04-10-17-52-00-ps5/)
+
 [想听歌的用户，没动力续费网易云音乐](https://fangyuanxiaozhan.com/p/2022-04-07-11-00-05-net-music/)
 
 [深圳深夜出租车司机老哥金句精选(2022年4月7日更新2号老哥)](https://fangyuanxiaozhan.com/p/2022-04-07-10-37-46-taxi-driver-of-shenzhen/)
