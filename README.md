@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年04月13日更新)
+## 目录(2022年04月15日更新)
+[为了他们能够拥有人的权利人的快乐人的尊严](https://fangyuanxiaozhan.com/p/2022-04-15-10-37-20-man/)
+
 [疫情居家，游戏产业与就业](https://fangyuanxiaozhan.com/p/2022-04-13-20-07-19-game/)
 
 [电子游戏是第九艺术，PS5是艺术的载体](https://fangyuanxiaozhan.com/p/2022-04-10-17-52-00-ps5/)
