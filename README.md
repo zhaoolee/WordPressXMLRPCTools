@@ -1,7 +1,13 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年06月15日更新)
+## 目录(2022年06月19日更新)
+[优秀游戏有哪些特点? 来自手残党不客观的总结](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-59-super-game/)
+
+[小团队的产品才会小而美](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-06-prod-team/)
+
+[长期来看, 买断制实体光盘卡带，是最省钱的电子消费品](https://fangyuanxiaozhan.com/p/2022-06-19-21-59-35-game-card/)
+
 [知乎，微博是现代人负能量之源](https://fangyuanxiaozhan.com/p/2022-06-15-11-39-00-zhihu-weibo/)
 
 [《无声告白》润物细无声的西方价值观渗透](https://fangyuanxiaozhan.com/p/2022-05-29-22-05-59-EverythingNeverToldYou/)
