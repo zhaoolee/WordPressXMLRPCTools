@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年06月19日更新)
+## 目录(2022年06月21日更新)
+[专家建议供过于求，天才作品极度匮乏](https://fangyuanxiaozhan.com/p/2022-06-21-11-23-06-genius-expert/)
+
 [优秀游戏有哪些特点? 来自手残党不客观的总结](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-59-super-game/)
 
 [小团队的产品才会小而美](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-06-prod-team/)
