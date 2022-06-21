@@ -1,5 +1,5 @@
 from wordpress_xmlrpc import Client, WordPressPost
-from wordpress_xmlrpc.methods.posts import GetPosts, NewPost, EditPost
+from wordpress_xmlrpc.methods.posts import GetPosts, NewPost, EditPost, DeletePost
 from urllib.parse import urlparse
 import frontmatter
 import time
@@ -113,6 +113,11 @@ def edit_post(id, title, content, link, post_status, terms_names_post_tag, terms
     res = wp.call(EditPost(id, post_obj))
     print(res)
 
+# 删除文章
+def delete_post(id):
+    res = wp.call(DeletePost(id))
+    print(res)
+
 # 获取markdown文件中的内容
 def read_md(file_path):
     content = ""
@@ -195,7 +200,7 @@ def href_info(link):
     return "<br/><br/><br/>\n\n\n\n## 本文永久更新地址: \n[" + link + "](" + link + ")"
 
 # 在README.md中插入信息文章索引信息，更容易获取google的收录
-def insert_index_info_in_readme():
+def update_index_info_in_readme():
     # 获取_posts下所有markdown文件
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
     # 生成插入列表
@@ -230,7 +235,10 @@ def main():
     post_link_id_list = get_posts()
     print(post_link_id_list)
     link_id_dic = post_link_id_list_2_link_id_dic(post_link_id_list)
+    link_id_dic = {key.split('/')[-2]: value for (key,value) in link_id_dic.items()}
     print(link_id_dic)
+    # wp_links = [link.split('/')[-1] for link in link_id_dic.keys()]
+
     # 2. 获取md_sha1_dic
     # 查看目录下是否存在md_sha1.txt,如果存在则读取内容；
     # 如果不存在则创建md_sha1.txt,内容初始化为{}，并读取其中的内容；
@@ -259,17 +267,33 @@ def main():
             post_status = "publish"
             link = sha1_key.split(".")[0]
             content = markdown.markdown(content + href_info("https://"+domain_name+"/p/"+link+"/"), extensions=['tables', 'fenced_code'])
-            # 如果文章无id,则直接新建
-            if(("https://"+domain_name+"/p/"+link+"/" in link_id_dic.keys()) == False):
+            # 如果文章id不存在,则直接新建
+            if link not in link_id_dic.keys():
+                print(f'Creating new post {md}')
                 new_post(title, content, link, post_status, terms_names_post_tag, terms_names_category)
             # 如果文章有id, 则更新文章
             else:
                 # 获取id
-                id = link_id_dic["https://"+domain_name+"/p/"+link+"/"]
+                print(f'Updating existing post {md}')
+                id = link_id_dic[link]
                 edit_post(id, title, content, link, post_status, terms_names_post_tag, terms_names_category)
+
+    # 如果_posts中的markdown被删除，则删除对应的post
+    for md in md_sha1_dic.keys():
+        if md == 'update_time':
+            continue
+        md_list_basename = [os.path.basename(md) for md in md_list]
+        if md not in md_list_basename:
+            print(f'Deleting post {md}')
+            link = md.split(".")[0]
+            id = link_id_dic[link]
+            delete_post(id)
+
+
+
     # 4. 重建md_sha1_dic
     rebuild_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"), os.path.join(os.getcwd(), "_posts"))
     # 5. 将链接信息写入insert_index_info_in_readme
-    insert_index_info_in_readme()
+    update_index_info_in_readme()
 
 main()
