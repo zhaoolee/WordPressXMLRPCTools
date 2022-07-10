@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2022年07月10日更新)
+[干净的水与干净的内容](https://fangyuanxiaozhan.com/p/2022-07-11-01-01-water/)
+
 [个人如此渺小, 更要活在当下](https://fangyuanxiaozhan.com/p/2022-07-10-个人如此渺小-更要活在当下/)
 
 [周末更一波脚本, 拍几张照片](https://fangyuanxiaozhan.com/p/2022-07-10-18-01-24-周末更一波脚本-手机拍几张照片/)
