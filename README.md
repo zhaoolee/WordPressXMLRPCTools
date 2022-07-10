@@ -237,9 +237,13 @@
 ---end---
 
 
+## 2022年7月10日更新(Star破百纪念更新)
+
+- 支持中文文件名, 由于WordPress本身的限制,文件名不要超过20个中文汉字(超过后会被默认WordPress配置截断, Star破200, 我会出一个突破20字符的方案), 比如: `2022-07-10-17-02-23-面试官应该给有潜力的面试者更多鼓励`(这算是17个中文字符)
+
+![支持中文](https://cdn.fangyuanxiaozhan.com/assets/1657446551834PbkyDEWh.png)
 
 ## 用Github Actions写Markdown文章，自动更新到WordPress
-
 
 
 - 写博客最舒服的格式是Markdown；
