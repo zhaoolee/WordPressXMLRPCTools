@@ -1,10 +1,15 @@
+if [ ! -d _posts  ];then
+  mkdir _posts
+else
+  echo dir exist
+fi
 echo "请输入文件名 ->"
 read -e filename
-touch  ./_posts/$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
-echo "---
-title: $filename 
-tags:
-- 个人成长
-categories:
-- 杂谈
----\n" > ./_posts/$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
+echo "\n"
+full_name=$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
+touch  ./_posts/$full_name
+file_content="---\ntitle: $filename\ntags:\n- 个人成长\ncategories:\n- 杂谈\n---\n"
+echo $full_name
+echo "\n"
+echo $file_content > ./_posts/$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
+echo $file_content
