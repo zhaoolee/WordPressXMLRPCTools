@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2022年07月11日更新)
+[少数服从多数还是多数服从少数](https://fangyuanxiaozhan.com/p/2022-07-11-13-24-少数服从多数还是多数服从少数/)
+
 [干净的水与干净的内容](https://fangyuanxiaozhan.com/p/2022-07-11-01-01-water/)
 
 [个人如此渺小, 更要活在当下](https://fangyuanxiaozhan.com/p/2022-07-10-个人如此渺小-更要活在当下/)
