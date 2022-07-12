@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ ! -d _posts  ];then
   mkdir _posts
 else
@@ -5,11 +6,11 @@ else
 fi
 echo "请输入文件名 ->"
 read -e filename
-echo "\n"
+echo -e "\n"
 full_name=$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
 touch  ./_posts/$full_name
 file_content="---\ntitle: $filename\ntags:\n- 个人成长\ncategories:\n- 杂谈\n---\n"
 echo $full_name
-echo "\n"
-echo $file_content > ./_posts/$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
-echo $file_content
+echo -e "\n"
+echo -e $file_content > ./_posts/$(date "+%Y-%m-%d-%H-%M-%S-$filename.md")
+echo -e $file_content
