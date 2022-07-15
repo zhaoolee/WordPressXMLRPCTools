@@ -13,14 +13,14 @@ jobs:
       steps:
       - uses: actions/checkout@v3 # Checking out the repo
       - name: Run with setup-python 3.7
-        uses: actions/setup-python@@v4
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.7
+          python-version: '3.7'
+          cache: 'pipenv'
       - name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
       - name: Install dependecies
-        run:  |
-          pipenv  install  --dev
+        run:  pipenv  install  --dev
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
