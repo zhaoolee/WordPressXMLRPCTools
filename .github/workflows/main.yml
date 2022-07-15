@@ -12,10 +12,10 @@ jobs:
           operating-system: ['ubuntu-18.04']
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
-      - name: Run with setup-python 3.7
+      - name: Run with setup-python 3.9
         uses: actions/setup-python@v2.2.2
         with:
-          python-version: 3.7
+          python-version: 3.9
       - name: Install pipenv
         run: pip install pipenv
       - name: Install dependecies

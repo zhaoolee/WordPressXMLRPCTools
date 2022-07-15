@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年07月14日更新)
+## 目录(2022年07月15日更新)
+[程序员的真实生活](https://fangyuanxiaozhan.com/p/2022-07-15-23-10-50-程序员的真实生活/)
+
 [少数服从多数还是多数服从少数](https://fangyuanxiaozhan.com/p/2022-07-11-13-24-少数服从多数还是多数服从少数/)
 
 [干净的水与干净的内容](https://fangyuanxiaozhan.com/p/2022-07-11-01-01-water/)
