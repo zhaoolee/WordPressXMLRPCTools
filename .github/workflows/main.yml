@@ -11,13 +11,13 @@ jobs:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
           operating-system: ['ubuntu-18.04']
       steps:
-      - uses: actions/checkout@v2 # Checking out the repo
-      - name: Run with setup-python 3.9
-        uses: actions/setup-python@v4.1.0
+      - uses: actions/checkout@v3 # Checking out the repo
+      - name: Run with setup-python 3.7
+        uses: actions/setup-python@@v4
         with:
-          python-version: 3.9
+          python-version: 3.7
       - name: Install pipenv
-        run: pip install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
       - name: Install dependecies
         run:  |
           pipenv  install  --dev
