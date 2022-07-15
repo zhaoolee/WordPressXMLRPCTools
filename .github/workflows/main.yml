@@ -13,7 +13,7 @@ jobs:
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
       - name: Run with setup-python 3.9
-        uses: actions/setup-python@v2.2.2
+        uses: actions/setup-python@v4.1.0
         with:
           python-version: 3.9
       - name: Install pipenv
