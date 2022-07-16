@@ -12,15 +12,16 @@ jobs:
           operating-system: ['ubuntu-18.04']
       steps:
       - uses: actions/checkout@v3 # Checking out the repo
-      - name: Run with setup-python 3.7
+      - name: Run with setup-python 3.9
         uses: actions/setup-python@v4
         with:
-          python-version: '3.7'
+          python-version: '3.9'
+          update-environment: false
           cache: 'pipenv'
       - name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
       - name: Install dependecies
-        run:  pipenv  install  --dev
+        run:  pipenv install
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
