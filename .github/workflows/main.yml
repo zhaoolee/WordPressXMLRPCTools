@@ -9,7 +9,7 @@ jobs:
       strategy:
         matrix:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
-          operating-system: ['ubuntu-18.04']
+          operating-system: ['ubuntu-20.04']
       steps:
       - uses: actions/checkout@v3 # Checking out the repo
       - name: Run with setup-python 3.9
@@ -19,9 +19,9 @@ jobs:
           update-environment: false
           cache: 'pipenv'
       - name: Install pipenv
-        run: pip install --user pipenv
+        run: pip3 install --user pipenv
       - name: Install dependecies
-        run:  pipenv install
+        run:  pipenv --python python3 && pipenv install
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
