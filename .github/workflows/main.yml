@@ -19,7 +19,7 @@ jobs:
           update-environment: false
           cache: 'pipenv'
       - name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        run: pip install --user pipenv
       - name: Install dependecies
         run:  pipenv install
       - name: Build
