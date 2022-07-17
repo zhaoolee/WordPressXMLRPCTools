@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2022年07月17日更新)
+[HHKB蓝牙静音版体验](https://fangyuanxiaozhan.com/p/2022-07-17-19-07-28-HHKB蓝牙静音版体验/)
+
 [魂学家狂喜, 高难度内卷经济学](https://fangyuanxiaozhan.com/p/2022-07-17-17-16-40-高难度内卷经济学/)
 
 [程序员的真实生活](https://fangyuanxiaozhan.com/p/2022-07-15-23-10-50-程序员的真实生活/)
