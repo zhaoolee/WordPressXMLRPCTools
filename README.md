@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年07月18日更新)
+## 目录(2022年07月20日更新)
+[热爱生活，远离B乎](https://fangyuanxiaozhan.com/p/2022-07-21-00-04-48-b乎/)
+
 [电子产品割韭菜套路](https://fangyuanxiaozhan.com/p/2022-07-18-23-28-22-电子产品割韭菜套路/)
 
 [HHKB蓝牙静音版体验](https://fangyuanxiaozhan.com/p/2022-07-17-19-07-28-HHKB蓝牙静音版体验/)
