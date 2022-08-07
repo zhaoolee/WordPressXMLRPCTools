@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年08月06日更新)
+## 目录(2022年08月07日更新)
+[取消Apple Music 订阅的糟糕体验](https://fangyuanxiaozhan.com/p/2022-08-07-19-41-25-apple-music/)
+
 [《异度之刃3》上手体验其二：让玩家重返十八岁，基本有手就能玩](https://fangyuanxiaozhan.com/p/2022-08-04-19-54-39-约兰/)
 
 [《异度之刃3》上手体验其一：游戏是如何消磨玩家时间的？](https://fangyuanxiaozhan.com/p/2022-08-02-15-05-53-异度之刃3/)
