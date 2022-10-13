@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2022年10月13日更新)
+[安卓折叠屏手机为什么不好搞？](https://fangyuanxiaozhan.com/p/2022-10-13-19-46-57-安卓折叠屏手机为什么不好搞/)
+
 [深圳2022年10月份疫情有感](https://fangyuanxiaozhan.com/p/2022-10-13-12-45-29-深圳2022年10月份疫情有感/)
 
 [取消Apple Music 订阅的糟糕体验](https://fangyuanxiaozhan.com/p/2022-08-07-19-41-25-apple-music/)
