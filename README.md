@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2022年10月20日更新)
-[异度之刃百小时体验](https://fangyuanxiaozhan.com/p/2022-10-19-19-18-57-xb/)
+[异度之刃2通关体验小结](https://fangyuanxiaozhan.com/p/2022-10-19-19-18-57-xb/)
 
 [安卓折叠屏手机为什么不好搞？](https://fangyuanxiaozhan.com/p/2022-10-13-19-46-57-安卓折叠屏手机为什么不好搞/)
 
