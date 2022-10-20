@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2022年10月20日更新)
+[如何用MacBook的优秀屏幕随时玩1080P主机模式Switch](https://fangyuanxiaozhan.com/p/2022-10-20-19-53-29-ns-mac/)
+
 [异度之刃2通关体验小结](https://fangyuanxiaozhan.com/p/2022-10-19-19-18-57-xb/)
 
 [安卓折叠屏手机为什么不好搞？](https://fangyuanxiaozhan.com/p/2022-10-13-19-46-57-安卓折叠屏手机为什么不好搞/)
