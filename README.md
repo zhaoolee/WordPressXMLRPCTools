@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年10月23日更新)
+## 目录(2022年10月24日更新)
+[在2022年「二的十次方」节，聊聊开源精神以及个人最近写的开源软件](https://fangyuanxiaozhan.com/p/2022-10-24-18-10-07-1024/)
+
 [玩主机游戏需要学习，并不比学编程更简单](https://fangyuanxiaozhan.com/p/2022-10-23-23-45-42-game/)
 
 [如何用MacBook的优秀屏幕随时玩1080P主机模式Switch](https://fangyuanxiaozhan.com/p/2022-10-20-19-53-29-ns-mac/)
