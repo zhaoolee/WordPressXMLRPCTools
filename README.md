@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年10月25日更新)
+## 目录(2022年10月27日更新)
+[在中国大陆，XGP对比Steam有什么优劣势?](https://fangyuanxiaozhan.com/p/2022-10-27-18-15-18-xgp/)
+
 [趁着10月24日「程序员节」还没变成「情人购物节」，聊聊开源精神](https://fangyuanxiaozhan.com/p/2022-10-24-18-10-07-1024/)
 
 [玩主机游戏需要学习，并不比学编程更简单](https://fangyuanxiaozhan.com/p/2022-10-23-23-45-42-game/)
