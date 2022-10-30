@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年10月27日更新)
+## 目录(2022年10月30日更新)
+[言路](https://fangyuanxiaozhan.com/p/2022-10-30-15-49-42-road/)
+
 [在中国大陆，XGP对比Steam有什么优劣势?](https://fangyuanxiaozhan.com/p/2022-10-27-18-15-18-xgp/)
 
 [趁着10月24日「程序员节」还没变成「情人购物节」，聊聊开源精神](https://fangyuanxiaozhan.com/p/2022-10-24-18-10-07-1024/)
