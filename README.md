@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年10月30日更新)
+## 目录(2022年11月08日更新)
+[人一生用几年时间学会讲话，但要用几十年时间学会不讲](https://fangyuanxiaozhan.com/p/2022-11-08-22-23-36-talk/)
+
 [言路](https://fangyuanxiaozhan.com/p/2022-10-30-15-49-42-road/)
 
 [在中国大陆，XGP对比Steam有什么优劣势?](https://fangyuanxiaozhan.com/p/2022-10-27-18-15-18-xgp/)
