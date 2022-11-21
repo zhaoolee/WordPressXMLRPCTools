@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年11月08日更新)
+## 目录(2022年11月21日更新)
+[程序员编程能力会自发地退化](https://fangyuanxiaozhan.com/p/2022-11-21-22-09-03-p/)
+
 [人一生用几年时间学会讲话，但要用几十年时间学会不讲](https://fangyuanxiaozhan.com/p/2022-11-08-22-23-36-talk/)
 
 [言路](https://fangyuanxiaozhan.com/p/2022-10-30-15-49-42-road/)
