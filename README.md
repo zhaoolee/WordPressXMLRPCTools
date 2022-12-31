@@ -1,7 +1,13 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年12月08日更新)
+## 目录(2022年12月31日更新)
+[2022年终总结](https://fangyuanxiaozhan.com/p/2022-12-31-12-18-02-2022-mark/)
+
+[赚钱之外的爱好有什么用？](https://fangyuanxiaozhan.com/p/2022-12-08-19-34-54-hobby/)
+
+[年青人为什么会变成愤青](https://fangyuanxiaozhan.com/p/2022-12-08-19-06-38-young-people/)
+
 [软件开发随想录](https://fangyuanxiaozhan.com/p/2022-12-08-19-00-39-software-dev/)
 
 [程序员编程能力会自发地退化](https://fangyuanxiaozhan.com/p/2022-11-21-22-09-03-p/)
