@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2022年12月31日更新)
+## 目录(2023年01月01日更新)
+[玩最终幻想7重制版联想到一些编程趣事（持续更新...）](https://fangyuanxiaozhan.com/p/2023-01-01-16-32-47-game-final-fantasy/)
+
 [2022年终总结](https://fangyuanxiaozhan.com/p/2022-12-31-12-18-02-2022-mark/)
 
 [赚钱之外的爱好有什么用？](https://fangyuanxiaozhan.com/p/2022-12-08-19-34-54-hobby/)
