@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年02月04日更新)
+## 目录(2023年02月12日更新)
+[zhaoole推荐值得玩的主机游戏](https://fangyuanxiaozhan.com/p/2023-02-12-11-23-42-game/)
+
 [编程小技巧:尽早汪汪汪的狗才是好狗;少用胶水;避免被僵尸吃掉脑子](https://fangyuanxiaozhan.com/p/2023-02-04-14-57-27-good-code/)
 
 [土地财政锁死了中国年轻人的未来,买房变租房,一念天地宽](https://fangyuanxiaozhan.com/p/2023-02-01-20-08-34-it/)
