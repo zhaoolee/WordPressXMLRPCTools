@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年02月12日更新)
+[ChatGPT是一个理解自然语言的工具集合](https://fangyuanxiaozhan.com/p/2023-02-12-11-51-20-chatgpt-tools/)
+
 [zhaoole推荐值得玩的主机游戏](https://fangyuanxiaozhan.com/p/2023-02-12-11-23-42-game/)
 
 [编程小技巧:尽早汪汪汪的狗才是好狗;少用胶水;避免被僵尸吃掉脑子](https://fangyuanxiaozhan.com/p/2023-02-04-14-57-27-good-code/)
