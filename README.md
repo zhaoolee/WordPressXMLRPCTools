@@ -1,7 +1,7 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年02月12日更新)
+## 目录(2023年02月14日更新)
 [ChatGPT是一个理解自然语言的工具箱](https://fangyuanxiaozhan.com/p/2023-02-12-11-51-20-chatgpt-tools/)
 
 [zhaoole推荐值得玩的主机游戏](https://fangyuanxiaozhan.com/p/2023-02-12-11-23-42-game/)
