@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年02月23日更新)
+[建议Apple推出新表带：你大爷永远是你大爷！公园唱歌老大爷才是Apple Watch的核心用户](https://fangyuanxiaozhan.com/p/2023-02-23-12-51-18-apple-watch/)
+
 [独立博客永不为奴](https://fangyuanxiaozhan.com/p/2023-02-23-12-30-38-blog/)
 
 [ChatGPT是一个理解自然语言的工具箱](https://fangyuanxiaozhan.com/p/2023-02-12-11-51-20-chatgpt-tools/)
