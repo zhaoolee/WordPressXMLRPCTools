@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年02月23日更新)
+## 目录(2023年03月16日更新)
+[我为什么喜欢用锤子便签](https://fangyuanxiaozhan.com/p/2023-03-16-16-04-56-smartisan-notes/)
+
 [建议Apple推出新表带：你大爷永远是你大爷！公园唱歌老大爷才是Apple Watch的核心用户](https://fangyuanxiaozhan.com/p/2023-02-23-12-51-18-apple-watch/)
 
 [独立博客永不为奴](https://fangyuanxiaozhan.com/p/2023-02-23-12-30-38-blog/)
