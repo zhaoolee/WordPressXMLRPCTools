@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年03月16日更新)
+[程序员学哪一门语言更不容易失业](https://fangyuanxiaozhan.com/p/2023-03-16-16-24-25-js/)
+
 [摄影天然适合程序员](https://fangyuanxiaozhan.com/p/2023-03-16-16-11-43-programmer-photography/)
 
 [我为什么喜欢用锤子便签](https://fangyuanxiaozhan.com/p/2023-03-16-16-04-56-smartisan-notes/)
