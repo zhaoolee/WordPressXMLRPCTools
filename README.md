@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年03月16日更新)
+[摄影天然适合程序员](https://fangyuanxiaozhan.com/p/2023-03-16-16-11-43-programmer-photography/)
+
 [我为什么喜欢用锤子便签](https://fangyuanxiaozhan.com/p/2023-03-16-16-04-56-smartisan-notes/)
 
 [建议Apple推出新表带：你大爷永远是你大爷！公园唱歌老大爷才是Apple Watch的核心用户](https://fangyuanxiaozhan.com/p/2023-02-23-12-51-18-apple-watch/)
