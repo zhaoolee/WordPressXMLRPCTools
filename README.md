@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年03月16日更新)
+## 目录(2023年03月18日更新)
+[博客比书籍发布内容更快,而且是免费的!](https://fangyuanxiaozhan.com/p/2023-03-18-15-27-38-read-book/)
+
 [程序员学哪一门语言更不容易失业](https://fangyuanxiaozhan.com/p/2023-03-16-16-24-25-js/)
 
 [摄影天然适合程序员](https://fangyuanxiaozhan.com/p/2023-03-16-16-11-43-programmer-photography/)
