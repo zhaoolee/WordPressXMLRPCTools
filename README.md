@@ -1,8 +1,8 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年03月18日更新)
-[博客比书籍发布内容更快,而且是免费的!](https://fangyuanxiaozhan.com/p/2023-03-18-15-27-38-read-book/)
+## 目录(2023年03月20日更新)
+[在独立域名持续创作博客，是最简单的长线投资](https://fangyuanxiaozhan.com/p/2023-03-18-15-27-38-read-book/)
 
 [程序员学哪一门语言更不容易失业](https://fangyuanxiaozhan.com/p/2023-03-16-16-24-25-js/)
 
