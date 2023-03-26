@@ -41,6 +41,9 @@
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
 
 
+## 为了实现更好的阅读体验,zhaoolee写了个WordPress主题，配合本项目一起使用
+
+[《求和!李姐万岁! GitBook For WordPress》 https://github.com/zhaoolee/gitbook-for-wordpress](https://github.com/zhaoolee/gitbook-for-wordpress)
 
 
 ### 如何实现WordPress登录授权？
