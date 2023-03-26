@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年03月26日更新)
+[阳光开朗孔乙己](https://fangyuanxiaozhan.com/p/2023-03-26-21-36-56-kongyiji/)
+
 [求和!李姐万岁!用ChatGPT写GitBook布局锤子便签配色的WordPress主题](https://fangyuanxiaozhan.com/p/2023-03-26-13-04-25-gitbook-for-wordpress/)
 
 [在独立域名持续创作博客，是最简单的长线投资](https://fangyuanxiaozhan.com/p/2023-03-18-15-27-38-read-book/)
