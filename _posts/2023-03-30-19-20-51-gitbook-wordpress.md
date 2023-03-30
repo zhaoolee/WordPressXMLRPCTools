@@ -1,5 +1,5 @@
 ---
-title: GitBook锤子便签风格WordPress主题的专题设计思考
+title: GitBook锤子便签风格WordPress主题目录设计思想
 tags:
 - 个人成长
 categories:
@@ -8,9 +8,11 @@ categories:
 
 
 
-最近在进行锤子便签风格WordPress主题的版本开发迭代, WordPress支持对文章进行**分类**（category），非常适合写长期连载。
+最近在进行锤子便签风格WordPress主题 《求和!李姐万岁! GitBook For WordPress》的开发, WordPress支持对文章进行**分类**（Category），非常适合写长期连载。
 
-我设计分类的核心思想是: **左侧目录默认展示所有分类的内容，列表内容按照时间进行倒序，如果使用分类，则将分类信息增强同步到url**
+[开源地址: https://github.com/zhaoolee/gitbook-for-wordpress](开源地址: https://github.com/zhaoolee/gitbook-for-wordpress)
+
+我设计左侧目录的核心思想是: **左侧目录默认展示所有分类的内容，列表内容按照时间进行倒序，如果使用分类，则将分类信息增强同步到url**
 
 ## 列表排序按时间倒序
 
