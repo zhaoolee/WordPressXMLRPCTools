@@ -4,7 +4,7 @@ tags:
 - 无声告白
 - 价值观较量
 categories:
-- 书评
+- 书评影评漫评集
 ---
 
 ![无声告白](https://cdn.fangyuanxiaozhan.com/assets/16538333672048Q2840N8.jpeg)
