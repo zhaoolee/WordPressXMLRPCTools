@@ -3,7 +3,7 @@ title: 求和!李姐万岁!用ChatGPT写GitBook布局锤子便签配色的WordPr
 tags:
 - 个人成长
 categories:
-- 杂谈
+- 程序员折腾笔记
 ---
 
 

@@ -4,7 +4,7 @@ tags:
 - github
 - Github Action
 categories:
-- Github
+- 程序员折腾笔记
 ---
 
 我在Github的用户名为zhaoolee，如果我在Github中建立一个名为zhaoolee的仓库，那zhaoolee仓库中READNE.md的内容，便会展现到github主页顶部。更有趣的是，如果给仓库编写一个脚本，就可以利用Github Actions自动更新主页的内容。

@@ -4,7 +4,7 @@ tags:
 - 深圳
 - 疫情
 categories:
-- 打工
+- 杂谈
 ---
 
 

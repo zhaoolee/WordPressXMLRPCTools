@@ -7,7 +7,7 @@ tags:
 - ColorOS
 - 尝鲜版
 categories:
-- 刷机
+- 程序员折腾笔记
 ---
 
 
