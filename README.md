@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年04月03日更新)
+[管理和展示博客内容的经验](https://fangyuanxiaozhan.com/p/2023-04-03-18-33-49-blog-manager/)
+
 [一个优秀博客的决定因素](https://fangyuanxiaozhan.com/p/2023-04-01-14-33-49-blog-cloud/)
 
 [GitBook锤子便签风格WordPress主题目录设计思想](https://fangyuanxiaozhan.com/p/2023-03-30-19-20-51-gitbook-wordpress/)
