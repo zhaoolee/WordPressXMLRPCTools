@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年04月03日更新)
+## 目录(2023年04月04日更新)
+[小破站up停更是好事](https://fangyuanxiaozhan.com/p/2023-04-04-18-46-49-bilibili-up/)
+
 [管理和展示博客内容的经验](https://fangyuanxiaozhan.com/p/2023-04-03-18-33-49-blog-manager/)
 
 [一个优秀博客的决定因素](https://fangyuanxiaozhan.com/p/2023-04-01-14-33-49-blog-cloud/)
