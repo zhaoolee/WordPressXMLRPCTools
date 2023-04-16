@@ -1,7 +1,7 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年04月13日更新)
+## 目录(2023年04月16日更新)
 [背单词确实能消除无用的烦恼](https://fangyuanxiaozhan.com/p/2023-04-13-19-40-40-life/)
 
 [《求和！李姐万岁！》小更新，支持原生菜单显示](https://fangyuanxiaozhan.com/p/2023-04-05-16-30-09-gitbook-theme-menu/)
