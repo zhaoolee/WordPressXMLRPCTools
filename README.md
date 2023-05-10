@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2023年05月10日更新)
-[驾校培训科目二的一些笔记](https://fangyuanxiaozhan.com/p/2023-05-09-19-27-46-road-test-part-2/)
+[科目二满分通关攻略](https://fangyuanxiaozhan.com/p/2023-05-09-19-27-46-road-test-part-2/)
 
 [关于经典纽约摄影学院教材的思考](https://fangyuanxiaozhan.com/p/2023-04-17-10-37-46-photography/)
 
