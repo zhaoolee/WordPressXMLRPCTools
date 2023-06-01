@@ -2,19 +2,13 @@
 
 ---start---
 ## 目录(2023年06月01日更新)
-[switch](https://fangyuanxiaozhan.com/p/2023-06-02-07-26-11-switch/)
+[用一个Gmail邮箱注册多个任天堂游戏区，以日本区账号为例](https://fangyuanxiaozhan.com/p/2023-06-02-07-26-11-switch/)
 
 [科目二满分通关攻略](https://fangyuanxiaozhan.com/p/2023-05-09-19-27-46-road-test-part-2/)
-
-[o-henry](https://fangyuanxiaozhan.com/p/2023-04-25-10-37-17-o-henry/)
 
 [关于经典纽约摄影学院教材的思考](https://fangyuanxiaozhan.com/p/2023-04-17-10-37-46-photography/)
 
 [背单词确实能消除无用的烦恼](https://fangyuanxiaozhan.com/p/2023-04-13-19-40-40-life/)
-
-[Deploy and init cloud compute  vultr $3.50 With IPV4 And IPV6](https://fangyuanxiaozhan.com/p/2023-04-06-22-08-12-init-vultr-cloud-compute/)
-
-[龙与地下城：侠盗荣耀](https://fangyuanxiaozhan.com/p/2023-04-05-23-47-49-dungeons-dragons-honor-among-thieves/)
 
 [《求和！李姐万岁！》小更新，支持原生菜单显示](https://fangyuanxiaozhan.com/p/2023-04-05-16-30-09-gitbook-theme-menu/)
 
