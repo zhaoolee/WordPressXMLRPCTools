@@ -1,8 +1,12 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年06月01日更新)
+## 目录(2023年06月05日更新)
+[桂林周末旅游闭坑指南](https://fangyuanxiaozhan.com/p/2023-06-05-13-43-08-guilin/)
+
 [用一个Gmail邮箱注册多个任天堂游戏区，以日本区账号为例](https://fangyuanxiaozhan.com/p/2023-06-02-07-26-11-switch/)
+
+[探索树莓派搭建家庭影院的收获](https://fangyuanxiaozhan.com/p/2023-05-28-17-25-36-jellyfin/)
 
 [科目二满分通关攻略](https://fangyuanxiaozhan.com/p/2023-05-09-19-27-46-road-test-part-2/)
 
