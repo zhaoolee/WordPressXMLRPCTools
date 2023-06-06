@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年06月05日更新)
+## 目录(2023年06月06日更新)
+[单机游戏的附加价值](https://fangyuanxiaozhan.com/p/2023-06-06-18-35-59-game/)
+
 [桂林周末旅游攻略](https://fangyuanxiaozhan.com/p/2023-06-05-13-43-08-guilin/)
 
 [用一个Gmail邮箱注册多个任天堂游戏区，以日本区账号为例](https://fangyuanxiaozhan.com/p/2023-06-02-07-26-11-switch/)
