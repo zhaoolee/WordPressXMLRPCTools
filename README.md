@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年06月06日更新)
+## 目录(2023年06月07日更新)
+[暗黑四莉莉丝：躺平是他们的权利](https://fangyuanxiaozhan.com/p/2023-06-07-18-10-46-lilith/)
+
 [单机游戏的附加价值](https://fangyuanxiaozhan.com/p/2023-06-06-18-35-59-game/)
 
 [桂林周末旅游攻略](https://fangyuanxiaozhan.com/p/2023-06-05-13-43-08-guilin/)
