@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年06月07日更新)
+## 目录(2023年06月12日更新)
+[新版Windows XP 经典Bliss壁纸蓝天白云绿草,顺便推荐一波微软设计站](https://fangyuanxiaozhan.com/p/2023-06-12-22-30-38-windows-bliss/)
+
 [暗黑四莉莉丝：躺平是他们的权利](https://fangyuanxiaozhan.com/p/2023-06-07-18-10-46-lilith/)
 
 [单机游戏的附加价值](https://fangyuanxiaozhan.com/p/2023-06-06-18-35-59-game/)
