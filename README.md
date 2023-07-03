@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月02日更新)
+## 目录(2023年07月03日更新)
+[频繁弹窗严重打断用户操作，越来越不把用户当人了](https://fangyuanxiaozhan.com/p/2023-07-03-10-30-21-coffee/)
+
 [网站运行在阿里云的成本](https://fangyuanxiaozhan.com/p/2023-07-02-12-20-15-aliyun/)
 
 [驾校出于利益不会讲的一些科目三套路，科目三首考挂科的一些经验](https://fangyuanxiaozhan.com/p/2023-06-30-14-06-12-car-3/)
