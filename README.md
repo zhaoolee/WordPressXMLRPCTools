@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月03日更新)
+## 目录(2023年07月08日更新)
+[2023年打开P4G的正确姿势](https://fangyuanxiaozhan.com/p/2023-07-08-22-02-27-p4g/)
+
 [频繁弹窗严重打断用户操作，越来越不把用户当人了](https://fangyuanxiaozhan.com/p/2023-07-03-10-30-21-coffee/)
 
 [网站运行在阿里云的成本](https://fangyuanxiaozhan.com/p/2023-07-02-12-20-15-aliyun/)
