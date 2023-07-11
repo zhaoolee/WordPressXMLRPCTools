@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月08日更新)
+## 目录(2023年07月11日更新)
+[塞尔达王国之泪是个好游戏，但不适合所有人](https://fangyuanxiaozhan.com/p/2023-07-09-23-14-05-zelda/)
+
 [2023年打开P4G的正确姿势](https://fangyuanxiaozhan.com/p/2023-07-08-22-02-27-p4g/)
 
 [频繁弹窗严重打断用户操作，越来越不把用户当人了](https://fangyuanxiaozhan.com/p/2023-07-03-10-30-21-coffee/)
