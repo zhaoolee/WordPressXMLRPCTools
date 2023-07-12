@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月11日更新)
+## 目录(2023年07月12日更新)
+[韩国女性的困境《82年生的金智英》](https://fangyuanxiaozhan.com/p/2023-07-12-11-50-19-kim-ji-young-born-1982/)
+
 [塞尔达王国之泪是个好游戏，但不适合所有人](https://fangyuanxiaozhan.com/p/2023-07-09-23-14-05-zelda/)
 
 [2023年打开P4G的正确姿势](https://fangyuanxiaozhan.com/p/2023-07-08-22-02-27-p4g/)
