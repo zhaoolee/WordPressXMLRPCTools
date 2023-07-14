@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月13日更新)
+## 目录(2023年07月14日更新)
+[王国之泪：万物皆可通融，通融也是游戏性](https://fangyuanxiaozhan.com/p/2023-07-14-10-39-43-game-design/)
+
 [卸载不必要App，保护自身情绪](https://fangyuanxiaozhan.com/p/2023-07-13-18-36-42-phone-app/)
 
 [韩国女性的困境《82年生的金智英》](https://fangyuanxiaozhan.com/p/2023-07-12-11-50-19-kim-ji-young-born-1982/)
