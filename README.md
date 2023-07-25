@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月16日更新)
+## 目录(2023年07月25日更新)
+[摄影是减法，分享玩王国之泪过程中一些不错的画面](https://fangyuanxiaozhan.com/p/2023-07-25-18-09-46-photo/)
+
 [王国之泪：所有的勇士，都能被称为林克](https://fangyuanxiaozhan.com/p/2023-07-16-17-20-57-link/)
 
 [王国之泪：万物皆可通融，通融也是游戏性](https://fangyuanxiaozhan.com/p/2023-07-14-10-39-43-game-design/)
