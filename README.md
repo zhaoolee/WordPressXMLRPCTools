@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年07月25日更新)
+## 目录(2023年07月28日更新)
+[个人网站服务器询价的经历分享，我的网站新服务器升级到10MB带宽啦](https://fangyuanxiaozhan.com/p/2023-07-28-13-11-46-vps-change/)
+
 [摄影是减法，分享玩王国之泪过程中一些不错的画面](https://fangyuanxiaozhan.com/p/2023-07-25-18-09-46-photo/)
 
 [王国之泪：所有的勇士，都能被称为林克](https://fangyuanxiaozhan.com/p/2023-07-16-17-20-57-link/)
