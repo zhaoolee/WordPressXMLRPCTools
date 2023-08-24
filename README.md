@@ -1,12 +1,12 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年08月23日更新)
+## 目录(2023年08月24日更新)
 [当你不知道写什么的时候，就写如何写博客，如何搭建博客](https://fangyuanxiaozhan.com/p/2023-08-23-14-37-16-blog/)
 
 [与多域名ICP备案流程的爱恨情愁（激情对射）后续](https://fangyuanxiaozhan.com/p/2023-08-15-12-05-06-icp/)
 
-[方圆小站备案进行时...](https://fangyuanxiaozhan.com/p/2023-08-06-19-30-57-sg/)
+[方圆小站重新备案完成](https://fangyuanxiaozhan.com/p/2023-08-06-19-30-57-sg/)
 
 [个人网站服务器询价的经历分享，我的网站新服务器升级到10MB带宽啦](https://fangyuanxiaozhan.com/p/2023-07-28-13-11-46-vps-change/)
 
