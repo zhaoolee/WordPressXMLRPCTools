@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年08月24日更新)
+## 目录(2023年08月25日更新)
+[禁止熬夜就是最好的投资理财](https://fangyuanxiaozhan.com/p/2023-08-25-17-37-57-healthy/)
+
 [当你不知道写什么的时候，就写如何写博客，如何搭建博客](https://fangyuanxiaozhan.com/p/2023-08-23-14-37-16-blog/)
 
 [与多域名ICP备案流程的爱恨情愁（激情对射）后续](https://fangyuanxiaozhan.com/p/2023-08-15-12-05-06-icp/)
