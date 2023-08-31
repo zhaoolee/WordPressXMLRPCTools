@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年08月25日更新)
+## 目录(2023年08月31日更新)
+[Chrome插件英雄榜因为包含不良信息，国内已不可见](https://fangyuanxiaozhan.com/p/2023-08-31-16-25-59-rm-chromeappheroes/)
+
 [禁止熬夜就是最好的投资理财](https://fangyuanxiaozhan.com/p/2023-08-25-17-37-57-healthy/)
 
 [当你不知道写什么的时候，就写如何写博客，如何搭建博客](https://fangyuanxiaozhan.com/p/2023-08-23-14-37-16-blog/)
