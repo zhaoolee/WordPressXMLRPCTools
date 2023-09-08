@@ -1,8 +1,8 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年09月02日更新)
-[特色环境下个人站长的应对策略](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
+## 目录(2023年09月08日更新)
+[特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
 [Chrome插件英雄榜因为包含不良信息，国内已不可见](https://fangyuanxiaozhan.com/p/2023-08-31-16-25-59-rm-chromeappheroes/)
 
