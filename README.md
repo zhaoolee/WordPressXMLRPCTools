@@ -1,8 +1,8 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年11月03日更新)
-[Brotato 土豆兄弟, 人类的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
+## 目录(2023年11月04日更新)
+[Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
 [对自媒体一些不客观的看法](https://fangyuanxiaozhan.com/p/2023-10-02-07-38-28-self-media/)
 
