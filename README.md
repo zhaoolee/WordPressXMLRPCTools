@@ -1,8 +1,8 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年12月11日更新)
-[《Brotato土豆兄弟》Steam全成就通关总结贴](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
+## 目录(2023年12月17日更新)
+[《Brotato土豆兄弟》Steam全成就通关总结](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
 
 [Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
