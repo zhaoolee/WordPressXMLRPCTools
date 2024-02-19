@@ -2,9 +2,9 @@
 
 ---start---
 ## 目录(2024年02月19日更新)
-[sora](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
+[Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
 
-[fitness](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
+[如果不能赚更多钱，那就锻炼身体，多活几年](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
 
 [Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
 
