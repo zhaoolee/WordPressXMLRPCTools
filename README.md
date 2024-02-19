@@ -1,7 +1,11 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2023年12月20日更新)
+## 目录(2024年02月19日更新)
+[sora](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
+
+[fitness](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
+
 [Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
 
 [《Brotato土豆兄弟》Steam全成就通关总结](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
