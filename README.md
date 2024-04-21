@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2024年02月19日更新)
+## 目录(2024年04月21日更新)
+[嘎! 2024年4月面试杂谈](https://fangyuanxiaozhan.com/p/2024-04-21-13-55-59-interview/)
+
 [Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
 
 [如果不能赚更多钱，那就锻炼身体，多活几年](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
