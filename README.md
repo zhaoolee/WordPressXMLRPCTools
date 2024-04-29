@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2024年04月21日更新)
+## 目录(2024年04月29日更新)
+[每天锻炼半小时，健康工作五十年](https://fangyuanxiaozhan.com/p/2024-04-29-20-08-16-boot/)
+
 [嘎! 2024年4月面试杂谈](https://fangyuanxiaozhan.com/p/2024-04-21-13-55-59-interview/)
 
 [Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
