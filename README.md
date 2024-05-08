@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2024年05月08日更新)
-[普通人有哪些副业可以做？](https://fangyuanxiaozhan.com/p/2024-05-08-15-54-58-position/)
+[普通人有哪些副业可以赚钱？](https://fangyuanxiaozhan.com/p/2024-05-08-15-54-58-position/)
 
 [每天锻炼半小时，健康工作五十年](https://fangyuanxiaozhan.com/p/2024-04-29-20-08-16-boot/)
 
