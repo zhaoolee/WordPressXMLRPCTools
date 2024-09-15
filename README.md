@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2024年05月26日更新)
+## 目录(2024年09月15日更新)
+[开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
+
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
 [普通人有哪些副业可以赚钱？](https://fangyuanxiaozhan.com/p/2024-05-08-15-54-58-position/)
