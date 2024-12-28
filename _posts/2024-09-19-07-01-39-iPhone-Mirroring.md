@@ -49,3 +49,4 @@ iPhone的游戏要比macOS丰富很多，我可以借助iPhone Mirroring丰富ma
 ![image-20240919073448723](https://cdn.fangyuanxiaozhan.com/assets/1726702491618Jp7pfndc.png)
 
 很多网站即使登录macOS端网页版，也需要验证码或者Auth临时秘钥，使用验证码或Auth验证就需要打开手机，现在有了iPhone Mirroring，即使不打开手机，也能查看验证码了。
+
