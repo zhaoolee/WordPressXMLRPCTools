@@ -1,7 +1,51 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2024年09月18日更新)
+## 目录(2025年01月06日更新)
+[分享一个好玩的智能打印机产品Guten](https://fangyuanxiaozhan.com/p/2025-01-05-13-08-18-guten/)
+
+[群晖的妙用](https://fangyuanxiaozhan.com/p/2024-12-28-17-35-48-the-magic-of-synology/)
+
+[从群晖NAS，聊聊软件的价值](https://fangyuanxiaozhan.com/p/2024-12-28-17-33-47-talk-about-the-value-of-software/)
+
+[10秒学会！电脑快速输入 Emoji 秘诀!](https://fangyuanxiaozhan.com/p/2024-12-28-17-31-32-pc-mac-input-emoji/)
+
+[盘外招走进现实，身体是革命的本钱](https://fangyuanxiaozhan.com/p/2024-12-28-17-20-46-capital-of-ravolution/)
+
+[开展自己的软件生意，可白嫖的服务](https://fangyuanxiaozhan.com/p/2024-12-28-17-19-40-free-services/)
+
+[大部分人都不舍得花力气去钻研](https://fangyuanxiaozhan.com/p/2024-12-28-17-18-44-reluctant-to-study/)
+
+[长寿要素指南](https://fangyuanxiaozhan.com/p/2024-12-28-17-15-47-longevity-essentials-guide/)
+
+[不稳定的脏活儿是开发的常态](https://fangyuanxiaozhan.com/p/2024-12-28-17-13-24-unstable-dirty-work/)
+
+[一切顺利的事情都遵循相同的过程](https://fangyuanxiaozhan.com/p/2024-12-28-17-09-50-same-process-of-goes-well/)
+
+[安全感的来源](https://fangyuanxiaozhan.com/p/2024-12-28-17-08-21-source-of-security/)
+
+[知行合一，先做个垃圾出来](https://fangyuanxiaozhan.com/p/2024-12-28-17-06-48-demo-app/)
+
+[分享几个让iPhone更好用的小技巧](https://fangyuanxiaozhan.com/p/2024-12-28-17-04-51-iPhone-tips/)
+
+[尝试新事物，是恢复好奇心的特效药](https://fangyuanxiaozhan.com/p/2024-12-28-17-03-22-restore-curiosity/)
+
+[如何理解王阳明的知行合一?](https://fangyuanxiaozhan.com/p/2024-12-28-17-01-21-unity-of-knowledge-and-action/)
+
+[适合中老年人使用的APP，是更好的APP](https://fangyuanxiaozhan.com/p/2024-12-28-16-58-33-app-for-older/)
+
+[树莓派充满了无限进化的基因](https://fangyuanxiaozhan.com/p/2024-12-28-15-57-43-pi/)
+
+[锤子便签引入生成式 AI 的危险是什么?](https://fangyuanxiaozhan.com/p/2024-12-28-15-56-17-smartisan-note-generative-ai/)
+
+[开发工程师与测试工程师的共轭父子关系](https://fangyuanxiaozhan.com/p/2024-12-28-15-53-50-conjugated-father-and-son/)
+
+[摄影圣经](https://fangyuanxiaozhan.com/p/2024-12-28-15-50-54-photography-bible/)
+
+[OpenAI模型道德感太高，不适合程序员](https://fangyuanxiaozhan.com/p/2024-12-28-15-48-33-too-high-moral-sense/)
+
+[程序员的弱点](https://fangyuanxiaozhan.com/p/2024-12-28-15-45-04-programmers-weaknesses/)
+
 [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iPhone-Mirroring/)
 
 [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
