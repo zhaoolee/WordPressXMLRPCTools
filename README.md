@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年04月24日更新)
+## 目录(2025年05月03日更新)
+[玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
+
 [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://fangyuanxiaozhan.com/p/2025-04-19-13-19-39-scarcity/)
 
 [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://fangyuanxiaozhan.com/p/2025-02-15-16-38-39-eth-cryptokitties/)
