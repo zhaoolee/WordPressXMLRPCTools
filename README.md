@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年05月03日更新)
+## 目录(2025年05月11日更新)
+[每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
+
 [玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
 
 [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://fangyuanxiaozhan.com/p/2025-04-19-13-19-39-scarcity/)
