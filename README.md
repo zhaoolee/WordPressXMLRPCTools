@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年06月25日更新)
+## 目录(2025年09月06日更新)
+[企业为什么要追求自动化与数字化](https://fangyuanxiaozhan.com/p/2025-09-06-13-34-44-automation/)
+
 [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
 
 [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
