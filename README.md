@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年09月06日更新)
+## 目录(2025年12月06日更新)
+[工程师通常是在一个不利于高质量编码的环境中尽力而为](https://fangyuanxiaozhan.com/p/2025-12-06-12-54-50-good-code/)
+
 [企业为什么要追求自动化与数字化](https://fangyuanxiaozhan.com/p/2025-09-06-13-34-44-automation/)
 
 [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
