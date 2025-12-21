@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年12月06日更新)
+## 目录(2025年12月21日更新)
+[如何用软件工程的思路维护个人博客？](https://fangyuanxiaozhan.com/p/2025-12-21-13-46-18-more-safe/)
+
 [工程师通常是在一个不利于高质量编码的环境中尽力而为](https://fangyuanxiaozhan.com/p/2025-12-06-12-54-50-good-code/)
 
 [企业为什么要追求自动化与数字化](https://fangyuanxiaozhan.com/p/2025-09-06-13-34-44-automation/)
