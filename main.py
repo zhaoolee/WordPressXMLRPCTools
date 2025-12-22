@@ -30,8 +30,8 @@ username = config_info["USERNAME"]
 password = config_info["PASSWORD"]
 xmlrpc_php = config_info["XMLRPC_PHP"]
 # 处理本地图片上传的配置
-image_hosting_url = config_info.get("IMAGE_HOSTING_URL", "https://cdn.fangyuanxiaozhan.com/upload_file")
-image_hosting_secret_token = config_info.get("IMAGE_HOSTING_SECRET_TOKEN")
+image_hosting_url = config_info["IMAGE_HOSTING_URL"]
+image_hosting_secret_token = config_info["IMAGE_HOSTING_SECRET_TOKEN"]
 
 try:
     if(os.environ["USERNAME"]):
@@ -89,20 +89,6 @@ def handle_local_markdown_image(md_path, content):
     print("local_image_abs_path_list==>>", local_image_abs_path_list)
 
     # 第二步：读取本地图片信息，可以通过md_path获取图片的绝对路径进行处理，通过requests post方式往image_hosting_url发送，每次一张，依次上传，可以参考的js实现，用python的requests实现
-    # const formData = {
-    #     file: fs.createReadStream(local_image_path),
-    #     secret_token: image_hosting_secret_token
-    # };
-    # return new Promise(async (resolve, reject) => {
-    #     await request.post({ url: image_hosting_url, formData: formData }, function optionalCallback(err, httpResponse, body) {
-    #         if (err) {
-    #             // 如果请求出错，则打印错误信息，跳过对这张图片的替换
-    #         } else {
-    #             // 如果请求正常，则返回图片地址
-    #             resolve(body);
-    #         }
-    #     })
-    # })
     local_image_path_to_http_url = {}
     for (image_link, image_abs_path) in local_image_link_abs_pairs:
         if os.path.exists(image_abs_path) == False:
@@ -350,8 +336,9 @@ def main():
             terms_names_category = metadata.get("categories", domain_name)
             post_status = "publish"
             link = urllib.parse.quote(sha1_key , safe='').lower() 
-            # 添加函数处理图片
-            content = handle_local_markdown_image(md, content)
+            # 添加函数处理图片, 如果image_hosting_url存在，则调用handle_local_markdown_image函数处理content
+            if(image_hosting_url):
+                content = handle_local_markdown_image(md, content)
             content = markdown.markdown(content + href_info("https://"+domain_name+"/p/"+link+"/"), extensions=['tables', 'fenced_code'])
             # 如果文章无id,则直接新建
             if(("https://"+domain_name+"/p/"+link+"/" in link_id_dic.keys()) == False):

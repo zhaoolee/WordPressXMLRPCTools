@@ -11,6 +11,7 @@ build = "python main.py"
 markdown = "3.4"
 python-wordpress-xmlrpc = "2.3"
 python-frontmatter = "0.5.0"
+requests = "2.32.5"
 
 [dev-packages]
 
