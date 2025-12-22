@@ -9,6 +9,8 @@ import json
 import markdown
 import re
 import urllib.parse
+import requests
+import mimetypes
 
 config_file_txt = ""
 
@@ -27,6 +29,9 @@ with open (config_file_txt, 'rb') as f:
 username = config_info["USERNAME"]
 password = config_info["PASSWORD"]
 xmlrpc_php = config_info["XMLRPC_PHP"]
+# 处理本地图片上传的配置
+image_hosting_url = config_info.get("IMAGE_HOSTING_URL", "https://cdn.fangyuanxiaozhan.com/upload_file")
+image_hosting_secret_token = config_info.get("IMAGE_HOSTING_SECRET_TOKEN")
 
 try:
     if(os.environ["USERNAME"]):
@@ -37,6 +42,11 @@ try:
 
     if(os.environ["XMLRPC_PHP"]):
         xmlrpc_php = os.environ["XMLRPC_PHP"]
+    # 将本地url上传到图床
+    if(os.environ["IMAGE_HOSTING_URL"]):
+        image_hosting_url = os.environ["IMAGE_HOSTING_URL"]
+    if(os.environ["IMAGE_HOSTING_SECRET_TOKEN"]):
+        image_hosting_secret_token = os.environ["IMAGE_HOSTING_SECRET_TOKEN"]
 except:
     print("无法获取github的secrets配置信息,开始使用本地变量")
 
@@ -46,6 +56,72 @@ url_info = urlparse(xmlrpc_php)
 domain_name = url_info.netloc
 
 wp = Client(xmlrpc_php, username, password)
+
+def handle_local_markdown_image(md_path, content):
+    # 第一步：content为markdown格式，从content里查找所有的本地图片链接，本地图片不以http开头
+    local_image_link_list = []
+    # markdown image: ![alt](path "title")
+    for match in re.findall(r'!\[[^\]]*\]\(([^)]+)\)', content):
+        link = match.strip().split()[0]
+        if link and (link.startswith("http") == False):
+            local_image_link_list.append(link)
+    # html image: <img src="path">
+    for match in re.findall(r'<img[^>]*src=[\'"]([^\'"]+)[\'"]', content):
+        link = match.strip()
+        if link and (link.startswith("http") == False):
+            local_image_link_list.append(link)
+    # 去重并保持顺序，后续步骤使用
+    seen = set()
+    local_image_link_list = [x for x in local_image_link_list if (x in seen) == False and (seen.add(x) or True)]
+
+    # 将本地图片链接处理为绝对路径，方便后续上传
+    local_image_abs_path_list = []
+    md_dir = os.path.dirname(os.path.abspath(md_path))
+    for link in local_image_link_list:
+        # 绝对路径不处理，相对路径基于 md_path 所在目录
+        if os.path.isabs(link):
+            abs_path = link
+        else:
+            abs_path = os.path.normpath(os.path.join(md_dir, link))
+        local_image_abs_path_list.append(abs_path)
+    print("local_image_abs_path_list==>>", local_image_abs_path_list)
+
+    # 第二步：读取本地图片信息，可以通过md_path获取图片的绝对路径进行处理，通过requests post方式往image_hosting_url发送，每次一张，依次上传，可以参考的js实现，用python的requests实现
+    # const formData = {
+    #     file: fs.createReadStream(local_image_path),
+    #     secret_token: image_hosting_secret_token
+    # };
+    # return new Promise(async (resolve, reject) => {
+    #     await request.post({ url: image_hosting_url, formData: formData }, function optionalCallback(err, httpResponse, body) {
+    #         if (err) {
+    #             // 如果请求出错，则打印错误信息，跳过对这张图片的替换
+    #         } else {
+    #             // 如果请求正常，则返回图片地址
+    #             resolve(body);
+    #         }
+    #     })
+    # })
+    for local_image_path in local_image_abs_path_list:
+        if os.path.exists(local_image_path) == False:
+            print("图片不存在，跳过==>>", local_image_path)
+            continue
+        try:
+            with open(local_image_path, 'rb') as f:
+                mime_type = mimetypes.guess_type(local_image_path)[0] or "application/octet-stream"
+                file_name = os.path.basename(local_image_path)
+                files = {"file": (file_name, f, mime_type)}
+                data = {}
+                if image_hosting_secret_token:
+                    data["secret_token"] = image_hosting_secret_token
+                res = requests.post(image_hosting_url, files=files, data=data, timeout=30)
+                print("upload_res==>>", res.text)
+        except Exception as e:
+            print("图片上传失败，跳过==>>", local_image_path, str(e))
+
+    # 第三步：获取图片上传后的链接，替换content中的本地链接为上传后的链接，对于上传失败的图片，跳过替换
+
+    # 第四步：返回处理后的content
+    return content
 
 # 获取已发布文章id列表
 def get_posts():
@@ -266,6 +342,8 @@ def main():
             terms_names_category = metadata.get("categories", domain_name)
             post_status = "publish"
             link = urllib.parse.quote(sha1_key , safe='').lower() 
+            # 添加函数处理图片
+            content = handle_local_markdown_image(md, content)
             content = markdown.markdown(content + href_info("https://"+domain_name+"/p/"+link+"/"), extensions=['tables', 'fenced_code'])
             # 如果文章无id,则直接新建
             if(("https://"+domain_name+"/p/"+link+"/" in link_id_dic.keys()) == False):
