@@ -76,6 +76,7 @@ def handle_local_markdown_image(md_path, content):
 
     # 将本地图片链接处理为绝对路径，方便后续上传
     local_image_abs_path_list = []
+    local_image_link_abs_pairs = []
     md_dir = os.path.dirname(os.path.abspath(md_path))
     for link in local_image_link_list:
         # 绝对路径不处理，相对路径基于 md_path 所在目录
@@ -84,6 +85,7 @@ def handle_local_markdown_image(md_path, content):
         else:
             abs_path = os.path.normpath(os.path.join(md_dir, link))
         local_image_abs_path_list.append(abs_path)
+        local_image_link_abs_pairs.append((link, abs_path))
     print("local_image_abs_path_list==>>", local_image_abs_path_list)
 
     # 第二步：读取本地图片信息，可以通过md_path获取图片的绝对路径进行处理，通过requests post方式往image_hosting_url发送，每次一张，依次上传，可以参考的js实现，用python的requests实现
@@ -101,24 +103,30 @@ def handle_local_markdown_image(md_path, content):
     #         }
     #     })
     # })
-    for local_image_path in local_image_abs_path_list:
-        if os.path.exists(local_image_path) == False:
-            print("图片不存在，跳过==>>", local_image_path)
+    local_image_path_to_http_url = {}
+    for (image_link, image_abs_path) in local_image_link_abs_pairs:
+        if os.path.exists(image_abs_path) == False:
+            print("图片不存在，跳过==>>", image_abs_path)
             continue
         try:
-            with open(local_image_path, 'rb') as f:
-                mime_type = mimetypes.guess_type(local_image_path)[0] or "application/octet-stream"
-                file_name = os.path.basename(local_image_path)
+            with open(image_abs_path, 'rb') as f:
+                mime_type = mimetypes.guess_type(image_abs_path)[0] or "application/octet-stream"
+                file_name = os.path.basename(image_abs_path)
                 files = {"file": (file_name, f, mime_type)}
                 data = {}
                 if image_hosting_secret_token:
                     data["secret_token"] = image_hosting_secret_token
                 res = requests.post(image_hosting_url, files=files, data=data, timeout=30)
+                # 打印出的值为 upload_res==>> https://cdn.fangyuanxiaozhan.com/assets/1766384328413NB766Xri.png
                 print("upload_res==>>", res.text)
+                local_image_path_to_http_url[image_link] = res.text
         except Exception as e:
-            print("图片上传失败，跳过==>>", local_image_path, str(e))
+            print("图片上传失败，跳过==>>", image_abs_path, str(e))
 
-    # 第三步：获取图片上传后的链接，替换content中的本地链接为上传后的链接，对于上传失败的图片，跳过替换
+    # 第三步：获取图片上传后的链接，替换content中的本地链接为上传后的链接，对于上传失败的图片，跳过替换, 将local_image_path_to_http_url里面的键值对进行遍历，然后替换content中的链接
+    for local_image_link, http_url in local_image_path_to_http_url.items():
+        if http_url:
+            content = content.replace(local_image_link, http_url)
 
     # 第四步：返回处理后的content
     return content
