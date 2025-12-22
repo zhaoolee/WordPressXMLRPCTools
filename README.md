@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年12月21日更新)
+## 目录(2025年12月22日更新)
+[测试本地图片](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
+
 [如何用软件工程的思路维护个人博客？](https://fangyuanxiaozhan.com/p/2025-12-21-13-46-18-more-safe/)
 
 [工程师通常是在一个不利于高质量编码的环境中尽力而为](https://fangyuanxiaozhan.com/p/2025-12-06-12-54-50-good-code/)
