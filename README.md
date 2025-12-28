@@ -4,7 +4,7 @@
 ## 目录(2025年12月28日更新)
 [莫比乌斯环](https://fangyuanxiaozhan.com/p/2025-12-28-15-30-23-mobius/)
 
-[程序员应该多做一些难以被量化的事](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
+[对合理性的期待是痛苦的根源](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
 
 [如何用软件工程的思路维护个人博客？以WordPress加github action为例](https://fangyuanxiaozhan.com/p/2025-12-21-13-46-18-more-safe/)
 
