@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2025年12月28日更新)
-[Markdown文件使用本地图片路径，上传WordPress时自动上传测试](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
+[程序员应该多做一些难以被量化的事](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
 
 [如何用软件工程的思路维护个人博客？以WordPress加github action为例](https://fangyuanxiaozhan.com/p/2025-12-21-13-46-18-more-safe/)
 
