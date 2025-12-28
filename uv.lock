@@ -242,6 +242,18 @@ wheels = [
 ]
 
 [[package]]
+name = "qiniu"
+version = "7.17.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/f8/bd/b4c669df1ee2a6dbaf23b14796d72445545bf9a913dff93c37eb79ee08b0/qiniu-7.17.0.tar.gz", hash = "sha256:4bcc61b6d53fa0416edd49f9e6290fb5e6bdf4056537936be1a6d48cd020f9fb", size = 62486, upload-time = "2025-07-11T07:32:43.364Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/49/1d/bd3703fe3c1c2efc1eff9314a9d2f5dd276ecb78d303634942756e231b0c/qiniu-7.17.0-py3-none-any.whl", hash = "sha256:3cd3d25ba1fb9abd2eefb98d5669873d7199e9d84decb25ff5db7968a08a9fb9", size = 81769, upload-time = "2025-07-11T07:32:41.665Z" },
+]
+
+[[package]]
 name = "requests"
 version = "2.32.5"
 source = { registry = "https://pypi.org/simple" }
@@ -282,6 +294,7 @@ dependencies = [
     { name = "markdown" },
     { name = "python-frontmatter" },
     { name = "python-wordpress-xmlrpc" },
+    { name = "qiniu" },
     { name = "requests" },
 ]
 
@@ -290,6 +303,7 @@ requires-dist = [
     { name = "markdown", specifier = "==3.4" },
     { name = "python-frontmatter", specifier = "==0.5.0" },
     { name = "python-wordpress-xmlrpc", specifier = "==2.3" },
+    { name = "qiniu", specifier = ">=7.17.0" },
     { name = "requests", specifier = ">=2.32.5" },
 ]
 
