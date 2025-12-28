@@ -18,7 +18,7 @@ categories:
 
 教程原地址：[https://www.oneplusbbs.com/thread-5873103-1.html](https://www.oneplusbbs.com/thread-5873103-1.html)
 
-![一加8刷Color OS](https://cdn.fangyuanxiaozhan.com/assets/1616646062671eRRKwm4y.png)
+![一加8刷Color OS](./2021-03-25-oneplus-coloros.assets/1616646062671eRRKwm4y.png)
 
 
 
@@ -40,7 +40,7 @@ categories:
 
 
 
-![原装白插头的红线](https://cdn.fangyuanxiaozhan.com/assets/1616645451361H6ErdAbt.jpeg)
+![原装白插头的红线](./2021-03-25-oneplus-coloros.assets/1616645451361H6ErdAbt.jpeg)
 
 
 
@@ -48,7 +48,7 @@ categories:
 
 解决方法： 以管理员身份运行 刷机软件
 
-![image-20210325121137073](https://cdn.fangyuanxiaozhan.com/assets/1616645502970MMb0ryZE.png)
+![image-20210325121137073](./2021-03-25-oneplus-coloros.assets/1616645502970MMb0ryZE.png)
 
 
 
@@ -56,7 +56,7 @@ categories:
 
 
 
-![自动刷机](https://cdn.fangyuanxiaozhan.com/assets/1616645575897p4Pt5bcd.png)
+![自动刷机](./2021-03-25-oneplus-coloros.assets/1616645575897p4Pt5bcd.png)
 
 
 
@@ -72,7 +72,7 @@ categories:
 
 
 
-![合并后的云服务](https://cdn.fangyuanxiaozhan.com/assets/16166471667093C5QcpbW.png)
+![合并后的云服务](./2021-03-25-oneplus-coloros.assets/16166471667093C5QcpbW.png)
 
 
 
@@ -90,7 +90,7 @@ categories:
 
 
 
-![shortcut-20210325-115210](https://cdn.fangyuanxiaozhan.com/assets/1616644372582WQzEk0ts.png)
+![shortcut-20210325-115210](./2021-03-25-oneplus-coloros.assets/1616644372582WQzEk0ts.png)
 
 
 
@@ -98,7 +98,7 @@ categories:
 
 
 
-![shortcut-20210325-110116](https://cdn.fangyuanxiaozhan.com/assets/1616644246121KxikKKaX.png)
+![shortcut-20210325-110116](./2021-03-25-oneplus-coloros.assets/1616644246121KxikKKaX.png)
 
 
 
@@ -130,4 +130,4 @@ ColorOS的广告真的多，需要手动调教关闭。HOS无广告。ColorOS的
 
 ## 最后放一张HOS末代皇帝张老板
 
-![最后放一张HOS末代皇帝张老板](https://cdn.fangyuanxiaozhan.com/assets/1616648484915i8e1mjCS.jpeg)
+![最后放一张HOS末代皇帝张老板](./2021-03-25-oneplus-coloros.assets/1616648484915i8e1mjCS.jpeg)

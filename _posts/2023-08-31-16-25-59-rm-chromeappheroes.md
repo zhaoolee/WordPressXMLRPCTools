@@ -10,7 +10,7 @@ categories:
 
 **Chrome插件英雄榜**是我在Github开的一个项目，项目地址为 `https://github点com/zhaoolee/ChromeAppHeroes` ，目前已经连载了118篇，在第114篇举例星愿浏览器的下载视频方法时，用了一个`网址M`，这个`网址M`是一个没有备案的影视网站，也被判定违规了。而 `github点com/zhaoolee/ChromeAppHeroes` 因为包含了网址M, 也成了违规网址。
 
-![image-20230831165149337](https://cdn.fangyuanxiaozhan.com/assets/16934719102345YrjPy0N.png)
+![image-20230831165149337](./2023-08-31-16-25-59-rm-chromeappheroes.assets/16934719102345YrjPy0N.png)
 
 目前我网站的**Chrome插件英雄榜**内容已经全部删除，感兴趣请移步 Github
 
@@ -32,7 +32,7 @@ categories:
 
 
 
-![003](https://cdn.fangyuanxiaozhan.com/assets/1693471747839wkB57asJ.jpeg)
+![003](./2023-08-31-16-25-59-rm-chromeappheroes.assets/1693471747839wkB57asJ.jpeg)
 
 
 

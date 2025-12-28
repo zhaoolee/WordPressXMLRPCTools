@@ -9,16 +9,16 @@ categories:
 
 加密猫（https://www.cryptokitties.co/） 是一款基于NFT（数字藏品）的游戏，通过产仔，生成更好看的猫猫。
 
-![image-20250215171524537](https://cdn.fangyuanxiaozhan.com/assets/1739610941848XjMhezfb.png)
+![image-20250215171524537](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739610941848XjMhezfb.png)
 
 优质的猫猫价格不菲，打开OpenSea交易市场, 查看真实的交易价格，一只猫可以卖到246个ETH,  2025年2月15日，ETH的价格为2700刀，也就是一只猫卖到了66万刀。
 
 
-![image-20250215172358024](https://cdn.fangyuanxiaozhan.com/assets/1739611439140GZhWH2yw.png)
+![image-20250215172358024](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739611439140GZhWH2yw.png)
 
-![IMG_3FD241282177-1](https://cdn.fangyuanxiaozhan.com/assets/17396114902342dbmMKbD.jpeg)
+![IMG_3FD241282177-1](./2025-02-15-16-38-39-eth-cryptokitties.assets/17396114902342dbmMKbD.jpeg)
 
-![image-20250215172608652](https://cdn.fangyuanxiaozhan.com/assets/1739611569869htENtAwB.png)
+![image-20250215172608652](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739611569869htENtAwB.png)
 
 
 每个猫猫都是NFT数字藏品，可以通过类似OpenSea的平台，进行交易，交易的账户基于匿名加密钱包，和比特币一样，无法定位具体的持有者。
@@ -27,9 +27,9 @@ categories:
 
 每次融合猫猫需要，支付0.008ETH的费用，但市场上价格最低的猫，只卖0.0014ETH, 相当于投入8块钱，只能卖1块4，而且还卖不出去。
 
-![image-20250215171753753](https://cdn.fangyuanxiaozhan.com/assets/1739611076011pixJ41ct.png)
+![image-20250215171753753](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739611076011pixJ41ct.png)
 
-![image-20250215172904603](https://cdn.fangyuanxiaozhan.com/assets/1739611745618mp6cCXeF.png)
+![image-20250215172904603](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739611745618mp6cCXeF.png)
 
 ## 如何玩转NFT游戏加密猫？
 
@@ -39,9 +39,9 @@ categories:
 
 
 
-![image-20250215173715145](https://cdn.fangyuanxiaozhan.com/assets/1739612238678HNhHcWN6.png)
+![image-20250215173715145](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739612238678HNhHcWN6.png)
 
-![image-20250215173533193](https://cdn.fangyuanxiaozhan.com/assets/1739612134551Ar1aMSZd.png)
+![image-20250215173533193](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739612134551Ar1aMSZd.png)
 
 
 
@@ -51,13 +51,13 @@ categories:
 
 
 
-![image-20250215173828434](https://cdn.fangyuanxiaozhan.com/assets/1739612309415HCNyCWkA.png)
+![image-20250215173828434](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739612309415HCNyCWkA.png)
 
 ## 币安的坑爹往事
 
 （我被币安坑了10刀，虽然理论上可以BEP20跨链到ERC20，但跨链后的ETC数量要打九折，而且需要额外支付BNB燃料费，最坑爹的是支付了燃料费还会跨链失败，而且0.5刀的BNB燃料费不退还）
 
-![image-20250215174725710](https://cdn.fangyuanxiaozhan.com/assets/1739612854109ctXit5FS.png)
+![image-20250215174725710](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739612854109ctXit5FS.png)
 
 
 
@@ -65,7 +65,7 @@ categories:
 
 
 
-![image-20250215175906062](https://cdn.fangyuanxiaozhan.com/assets/17396135468908EYCakGP.png)
+![image-20250215175906062](./2025-02-15-16-38-39-eth-cryptokitties.assets/17396135468908EYCakGP.png)
 
 
 
@@ -81,11 +81,11 @@ categories:
 
 免费版的加密猫，在telegram的的月活有接近9万人，哪怕只有百分之一的转化，也能让900人进入赌狗专场。
 
-![image-20250215180851095](https://cdn.fangyuanxiaozhan.com/assets/1739614132726i7XTrTwh.png)
+![image-20250215180851095](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739614132726i7XTrTwh.png)
 
 **赌狗专场，就是不断繁殖新猫，而繁殖新猫，起码需要两只猫才能完成**，按照目前的行情，**购买两只最便宜的猫，也要消耗10美元**。**每次繁殖需要0.008ETH,  换算一下，最少需要21美刀才能抽一次卡**!  (算上各种燃料费，实际花费一定会更高)
 
-![IMG_6728](https://cdn.fangyuanxiaozhan.com/assets/1739614773646W1CCWXBB.jpeg)
+![IMG_6728](./2025-02-15-16-38-39-eth-cryptokitties.assets/1739614773646W1CCWXBB.jpeg)
 
 朋友评价：「**氪成这样也有这么多人玩吗**？」
 

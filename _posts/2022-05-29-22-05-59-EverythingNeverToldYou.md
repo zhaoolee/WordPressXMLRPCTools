@@ -7,7 +7,7 @@ categories:
 - 书籍影视手记
 ---
 
-![无声告白](https://cdn.fangyuanxiaozhan.com/assets/16538333672048Q2840N8.jpeg)
+![无声告白](./2022-05-29-22-05-59-EverythingNeverToldYou.assets/16538333672048Q2840N8.jpeg)
 
 
 今天花了一天时间, 看完了《无声告白》, 结合最近人教版课本曝光的热点, 得到一些特殊的感悟, 分享一波.
@@ -42,5 +42,5 @@ categories:
 
 书中有一个桥段, 描述混血儿的眼镜不是蓝色, 被周围同学刻意讨论, 与我们人教版教材里出现蓝眼睛人物的图文, 算是异曲同工了。
 
-![蓝眼睛](https://cdn.fangyuanxiaozhan.com/assets/1653835432301jWTJpECF.png)
+![蓝眼睛](./2022-05-29-22-05-59-EverythingNeverToldYou.assets/1653835432301jWTJpECF.png)
 

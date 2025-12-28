@@ -30,15 +30,15 @@ WordPress是一个很成功的产品，2003年发布至今，**实现了开源�
 
 **既要又要是人类的本性**，我切换到WordPress后，又开始**想念GitBook优秀的布局设计**，同时又想要**锤子便签一样舒适的配色阅读体验**，但没有找到现成的主题，于是我打算自己写一个，**但WordPress主题需要用到PHP语法，于是我让ChatGPT帮忙写PHP，ChatGPT写PHP很优秀，活儿好不粘人，让我有了做甲方的感觉**。
 
-![WordPress PHP](https://cdn.fangyuanxiaozhan.com/assets/16798130107504ZC4CxAX.png)
+![WordPress PHP](./2023-03-26-13-04-25-gitbook-for-wordpress.assets/16798130107504ZC4CxAX.png)
 
 主题写完了初版，主题暂定名称为《**求和!李姐万岁! GitBook For WordPress**》目前已经发布到 https://fangyuanxiaozhan.com  （方圆小站）运行使用，方圆小站完全由白嫖的Github Actions 运行时进行管理，管理脚本开源地址 https://github.com/zhaoolee/WordPressXMLRPCTools 脚本的目的是用Hexo的方式管理WordPress「使用Github Actions自动更新文章到WordPress」
 
-![主题](https://cdn.fangyuanxiaozhan.com/assets/1679809887392GD20kTQs.png)
+![主题](./2023-03-26-13-04-25-gitbook-for-wordpress.assets/1679809887392GD20kTQs.png)
 
 ## 主题封面图
 
-![screenshot](https://cdn.fangyuanxiaozhan.com/assets/1679809799514AP7521fB.jpeg)
+![screenshot](./2023-03-26-13-04-25-gitbook-for-wordpress.assets/1679809799514AP7521fB.jpeg)
 
 ## 效果演示
 
@@ -46,13 +46,13 @@ WordPress是一个很成功的产品，2003年发布至今，**实现了开源�
 
 - 宽窄屏自适应
 
-![Gitbook ](https://cdn.fangyuanxiaozhan.com/assets/1679811878976jke7xdWQ.gif)
+![Gitbook ](./2023-03-26-13-04-25-gitbook-for-wordpress.assets/1679811878976jke7xdWQ.gif)
 
 如果你们的重点放在蒂法上，来这里 https://fangyuanxiaozhan.com/p/2023-01-08-13-50-22-ff7/  服务器带宽有限，图片加载稍慢，可能需要多等一会儿（如果有便宜带宽的服务器推荐，评论区可以推荐一波）
 
 - 支持搜索
 
-![支持搜索](https://cdn.fangyuanxiaozhan.com/assets/1679812197742NJW5ZNBE.gif)
+![支持搜索](./2023-03-26-13-04-25-gitbook-for-wordpress.assets/1679812197742NJW5ZNBE.gif)
 
 
 
@@ -85,7 +85,7 @@ WordPress是一个很成功的产品，2003年发布至今，**实现了开源�
 
 
 
-![不要因为走的太远-就忘了当初为什么出发](https://cdn.fangyuanxiaozhan.com/assets/1679812767768t1FBsEQQ.png)
+![不要因为走的太远-就忘了当初为什么出发](./2023-03-26-13-04-25-gitbook-for-wordpress.assets/1679812767768t1FBsEQQ.png)
 
 写博客最大的乐趣在于分享，博客应该是：**有趣想法生成器，个人项目分享器，优质内容发射器**；而不是废话连篇生成器，广告生成器，带货生成器...
 

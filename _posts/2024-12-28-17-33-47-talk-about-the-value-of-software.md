@@ -15,7 +15,7 @@ categories:
 群晖dsm系统的特点是，**系统极其稳定，软件逻辑非常人性化，硬件贼贵**，有Apple的味道，人称**买软件送硬件，充分体现了软件的价值**。我们可以直接通过开源项目，docker一键体验dsm系统：https://github.com/vdsm/virtual-dsm
 
 
-![Notes_1735051694000](https://cdn.fangyuanxiaozhan.com/assets/1735378469128fxpsZjtK.jpeg)
+![Notes_1735051694000](./2024-12-28-17-33-47-talk-about-the-value-of-software.assets/1735378469128fxpsZjtK.jpeg)
 
 
 前几年，国内大厂卷云服务，云存储，各类针对普通用户的网盘服务更是直接免费！卷完以后，开始大幅涨价了（经典剧本，百试不爽）

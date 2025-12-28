@@ -14,4 +14,4 @@ categories:
 
 
 
-![Notes_1735204237000](https://cdn.fangyuanxiaozhan.com/assets/1735378630376NkYtMHZQ.jpeg)
+![Notes_1735204237000](./2024-12-28-17-35-48-the-magic-of-synology.assets/1735378630376NkYtMHZQ.jpeg)

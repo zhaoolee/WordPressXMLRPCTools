@@ -1,7 +1,7 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2025年12月22日更新)
+## 目录(2025年12月23日更新)
 [Markdown文件使用本地图片路径，上传WordPress时自动上传测试](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
 
 [如何用软件工程的思路维护个人博客？](https://fangyuanxiaozhan.com/p/2025-12-21-13-46-18-more-safe/)
@@ -469,11 +469,31 @@
 ---end---
 
 
+
+## 2025年12月23日更新（更容易离线备份博客的方案，支持离线预览图片）
+
+我们写markdown，最好的图片的格式应该是一个相对路径，比如README.md 包含的图片应该存储在同级目录下的 README.assets 文件夹里面，但是发布到Wordpress这种标准化网站，却需要一个http开头的图片路径；
+
+我们本地文件是数据层，而wordpress展示的是表现层，如果要满足Wordpress的要求，我们应该写一个中间层，这个中间层用来把相对路径转换为绝对路径，这个中间层程序应该在发布文章时运行。
+
+我旧的方案都是在插入图片时，直接通过图床程序把图片转换为url (图床方案 https://github.com/zhaoolee/EasyTypora/)，这样造成了几个问题，一是markdown文件离线无法查看；二是图片上传过程中不够丝滑，打断思路，图床如果出了问题连文章都写不了，三是图床本身的离线安全备份也是个问题。
+
+从软件工程的角度看，做好数据与表现层的分离，以上三个问题都能自然解决。
+
+于是我做了更新, 结合图床方案 https://github.com/zhaoolee/EasyTypora/ 可以直接在github action把仓库中图片上传到图床，并将替换url后的内容发给wordpress进行文章更新，这样既可以通过github做图片备份，又能离线查看markdown，又能让wordpress拿到http开头的链接
+
+
+
+![image-20251223112622169](./README.assets/image-20251223112622169.png)
+
+
+
+
 ## 2022年7月10日更新(Star破百纪念更新)
 
 - 支持中文文件名, 由于WordPress本身的限制,文件名不要超过20个中文汉字(超过后会被默认WordPress配置截断, Star破200, 我会出一个突破20字符的方案), 比如: `2022-07-10-17-02-23-面试官应该给有潜力的面试者更多鼓励`(这算是17个中文字符)
 
-![支持中文](https://cdn.fangyuanxiaozhan.com/assets/1657446551834PbkyDEWh.png)
+![支持中文](./README.assets/1657446551834PbkyDEWh.png)
 
 ## 用Github Actions写Markdown文章，自动更新到WordPress
 
@@ -490,7 +510,7 @@
 
 
 
-![image-20210119181051609](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033557RhdS4nmK.png)
+![image-20210119181051609](./README.assets/1611123033557RhdS4nmK.png)
 
 
 
@@ -507,11 +527,11 @@ WordPress默认开启了xmlrpc服务，xmlrpc是一套的统用的博客更新�
 
 我的WordPress网站为 [https://fangyuanxiaozhan.com](https://fangyuanxiaozhan.com) 
 
-![image-20210119180338929](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033711jFFFRE3D.png)
+![image-20210119180338929](./README.assets/1611123033711jFFFRE3D.png)
 
 它的xmlrpc服务地址为  [https://fangyuanxiaozhan.com/xmlrpc.php](https://fangyuanxiaozhan.com/xmlrpc.php)
 
-![image-20210119180403270](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033808cFthmwwi.png)
+![image-20210119180403270](./README.assets/1611123033808cFthmwwi.png)
 
 
 
@@ -519,13 +539,13 @@ WordPress默认开启了xmlrpc服务，xmlrpc是一套的统用的博客更新�
 
 Github Actions 可以让我们无需安装开发环境，即可完成代码的运行。
 
-![image-20210119180656968](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033850KpH03KNE.png)
+![image-20210119180656968](./README.assets/1611123033850KpH03KNE.png)
 
 对于本项目而言，我可以用手机版Git App，或者Github网页完成新建文章, 然后push到仓库，Github Actions会自动帮我完成相关代码运行，代码可以帮我更新文章到WordPress网站，并生成新的文章目录索引，并自动给你更新到README.md, 供搜索引擎收录。
 
 
 
-![image-20210119180529083](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033950bTXn7Skr.png)
+![image-20210119180529083](./README.assets/1611123033950bTXn7Skr.png)
 
 
 ### 如何保护自己的WordPress账户密码？
@@ -547,7 +567,7 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 
 
 
-![image-20210119173133800](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/16111230341284PaHwCDm.png)
+![image-20210119173133800](./README.assets/16111230341284PaHwCDm.png)
 
 
 
@@ -555,7 +575,7 @@ Github 有一个secrets 功能，可以将用户名密码等关键信息保护�
 
 在`_post` 目录下新建 后缀为 `.md` 的markdown文件即可
 
-![image-20210119181544158](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/16111230342738acPGWSM.png)
+![image-20210119181544158](./README.assets/16111230342738acPGWSM.png)
 
 
 
@@ -595,7 +615,7 @@ categories:
 标签(tags)是针对单篇文章的关键词，比如香蕉的标签有 **黄色**，**味甜** （标签是香蕉的属性）
 分类(categories)是本篇文章的归属，比如香蕉的分类为 **水果**，**植物** 
 
-![image-20210119182027684](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123034368EXM02d37.png)
+![image-20210119182027684](./README.assets/1611123034368EXM02d37.png)
 
 ###  如何设置固定链接？
 
@@ -612,7 +632,7 @@ categories:
 
 
 
-![image-20210119171713841](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123034673aad52Amb.png)
+![image-20210119171713841](./README.assets/1611123034673aad52Amb.png)
 
 
 
@@ -626,13 +646,13 @@ categories:
 git pull && git add _posts && git commit -m "update" && git push
 ```
 
-![image-20210119182503520](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123034888HbKthGTh.png)
+![image-20210119182503520](./README.assets/1611123034888HbKthGTh.png)
 
 即可！
 
 
 
-![image-20210119182653436](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036038n18wBCfT.png)
+![image-20210119182653436](./README.assets/1611123036038n18wBCfT.png)
 
 
 
@@ -640,13 +660,13 @@ git pull && git add _posts && git commit -m "update" && git push
 
 
 
-![image-20210119184015781](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/16111230361713668ZtFR.png)
+![image-20210119184015781](./README.assets/16111230361713668ZtFR.png)
 
 
 
 ### WordPress网站也同步发布了文章
 
-![image-20210119182849720](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036272XED7hTE0.png)
+![image-20210119182849720](./README.assets/1611123036272XED7hTE0.png)
 
 [https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/](https://fangyuanxiaozhan.com/p/2020-01-19-18-00-wordpressxmlrpctools/)
 
@@ -656,7 +676,7 @@ git pull && git add _posts && git commit -m "update" && git push
 
 
 
-![微信图片_20210119192838](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036503KhBJRrpj.jpeg)
+![微信图片_20210119192838](./README.assets/1611123036503KhBJRrpj.jpeg)
 
 用锤子便签，可以优雅舒适地写Markdown，手机App很好用，还有网页版可以用，有5GB的免费空间，能写到锤子倒闭。
 
@@ -679,4 +699,3 @@ Pocket Git 和 MT管理器可以配合完成Git 文件的新增更新和上传�
 
 
 当我们把毕生所学，通过几十年如一日的博客更新，逐步开源到互联网上时，必将会造福更多志同道合的人。
-

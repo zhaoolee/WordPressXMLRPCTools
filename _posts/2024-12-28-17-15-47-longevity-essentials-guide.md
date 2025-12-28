@@ -128,7 +128,7 @@ categories:
 • 显示相关性，不一定有因果关系
 • 建议在医生指导下做决定
 
-![Notes_1734273339000](https://cdn.fangyuanxiaozhan.com/assets/1735377382380yd7hWAYC.jpeg)
+![Notes_1734273339000](./2024-12-28-17-15-47-longevity-essentials-guide.assets/1735377382380yd7hWAYC.jpeg)
 
 
 本文参考：https://github.com/geekan/HowToLiveLonger

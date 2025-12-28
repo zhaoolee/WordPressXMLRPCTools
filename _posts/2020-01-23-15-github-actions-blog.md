@@ -11,7 +11,7 @@ categories:
 
 我有两个网站**V2方圆**和**方圆小站**，我通过Github Actions设置了一个每隔15分钟自动运行的任务，任务内的程序会自动爬取**V2方圆**和**方圆小站**的前三篇内容，并将链接更新到我的Github主页。当用免费的Github Actions为自己的博客引流时，我体会到了白嫖的快乐，获得了Github长期的优质流量。
 
-![image](https://cdn.fangyuanxiaozhan.com/assets/1611388991979Mkpibtet.png)
+![image](./2020-01-23-15-github-actions-blog.assets/1611388991979Mkpibtet.png)
 
 ####  Python脚本如下
 

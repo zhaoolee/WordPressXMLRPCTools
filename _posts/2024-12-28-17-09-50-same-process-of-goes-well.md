@@ -6,7 +6,7 @@ categories:
 - 杂谈
 ---
 
-![Notes_1734059357000](https://cdn.fangyuanxiaozhan.com/assets/1735377022648dhKNbrZB.jpeg)
+![Notes_1734059357000](./2024-12-28-17-09-50-same-process-of-goes-well.assets/1735377022648dhKNbrZB.jpeg)
 
 1. 多关注自己喜欢的事情，找到多做这些事情的方法
 2. 让同道中人，发现我在做这些事

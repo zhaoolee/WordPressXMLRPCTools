@@ -54,4 +54,4 @@ categories:
 
 未来的某天，你应该可以坐在⽕炉边上，品⼀杯⽩兰地或抽⼀支上好的雪茄， 边上坐着你⼼爱的猎⽝，去品味⼀段**AI编写的深奥的程序 **
 
-![IMG_8001](https://cdn.fangyuanxiaozhan.com/assets/1750814545252M0cPNrh3.jpeg)
+![IMG_8001](./2025-06-25-09-18-39-cursor-experience.assets/1750814545252M0cPNrh3.jpeg)

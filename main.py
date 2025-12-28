@@ -21,6 +21,8 @@ else:
 
 config_info = {}
 
+# 每一篇文章暂停的时间，避免请求过快被服务器拒绝
+SLEEP_TIME_BETWEEN_POSTS = 30 #秒
 
 with open (config_file_txt, 'rb') as f:
     config_info = json.loads(f.read())
@@ -366,6 +368,7 @@ def main():
                     "terms_names_post_tag": terms_names_post_tag,
                     "terms_names_category": terms_names_category
                 });
+            time.sleep(SLEEP_TIME_BETWEEN_POSTS) # 避免请求过快被服务器拒绝
 
     # 4. 重建md_sha1_dic
     rebuild_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"), os.path.join(os.getcwd(), "_posts"))

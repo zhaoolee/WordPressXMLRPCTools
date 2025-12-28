@@ -8,7 +8,7 @@ categories:
 
 
 
-![Notes_1733825803000](https://cdn.fangyuanxiaozhan.com/assets/1735376656165Yk4rxDzy.jpeg)
+![Notes_1733825803000](./2024-12-28-17-03-22-restore-curiosity.assets/1735376656165Yk4rxDzy.jpeg)
 
 人类**百分之八十的快乐源自好奇心**，作为天生的猎手，时刻**应对多变的环境，才是生活的常态**。
 

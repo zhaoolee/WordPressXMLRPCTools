@@ -17,7 +17,7 @@ categories:
 
 
 
-![添加菜单项](https://cdn.fangyuanxiaozhan.com/assets/1680683705540riDCt3TF.png)
+![添加菜单项](./2023-04-05-16-30-09-gitbook-theme-menu.assets/1680683705540riDCt3TF.png)
 
 进入菜单，添加菜单项，勾选Gitbook Menu这个选项，保存菜单即可~
 
@@ -25,7 +25,7 @@ categories:
 
 
 
-![最终效果](https://cdn.fangyuanxiaozhan.com/assets/1680683730273ReE0E6PY.png)
+![最终效果](./2023-04-05-16-30-09-gitbook-theme-menu.assets/1680683730273ReE0E6PY.png)
 
 
 
