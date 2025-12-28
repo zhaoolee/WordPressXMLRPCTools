@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2025年12月28日更新)
+[AI生成大量代码带来的问题](https://fangyuanxiaozhan.com/p/2025-12-28-16-17-52-vibe-coding/)
+
 [莫比乌斯环](https://fangyuanxiaozhan.com/p/2025-12-28-15-30-23-mobius/)
 
 [对合理性的期待是痛苦的根源](https://fangyuanxiaozhan.com/p/2025-12-22-11-59-11-test-image-local/)
