@@ -13,7 +13,7 @@ import requests
 
 POSTS_DIR = "_posts"
 
-HTTP_IMAGE_PATTERN = re.compile(r'!\[[^\]]*\]\(([^)]+)\)')
+HTTP_IMAGE_PATTERN = re.compile(r'!\[(?P<alt>[^\]]*)\]\((?P<inner>[^)]+)\)')
 
 
 def iter_md_files(path):
@@ -114,17 +114,21 @@ def replace_http_images(md_path):
         return local_url
 
     def replace_markdown(match):
-        inner = match.group(1).strip()
+        inner = match.group("inner")
         if not inner:
             return match.group(0)
-        parts = inner.split()
-        url = parts[0]
+        inner_match = re.match(r"\s*(\S+)(.*)", inner, flags=re.DOTALL)
+        if not inner_match:
+            return match.group(0)
+        url = inner_match.group(1)
+        rest = inner_match.group(2)
         if not url.startswith(("http://", "https://")):
             return match.group(0)
         local_url = get_local_url(url)
         if not local_url:
             return match.group(0)
-        return match.group(0).replace(url, local_url, 1)
+        alt = match.group("alt")
+        return f"![{alt}]({local_url}{rest})"
 
     new_content = HTTP_IMAGE_PATTERN.sub(replace_markdown, content)
 

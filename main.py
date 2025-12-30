@@ -263,6 +263,20 @@ def rebuild_md_sha1_dic(file, md_dir):
     md_sha1_dic["update_time"] =  time.strftime('%Y-%m-%d-%H-%M-%S')
     write_dic_info_to_file(md_sha1_dic, file)
 
+def rebuild_md_sha1_dic_for_md_file(file, md_file_path):
+    md_sha1_dic = get_md_sha1_dic(file)
+
+    key = os.path.basename(md_file_path).split(".")[0]
+    value = get_sha1(md_file_path)
+    md_sha1_dic[key] = {
+        "hash_value": value,
+        "file_name": key,
+        "encode_file_name": urllib.parse.quote(key, safe='').lower()
+    }
+
+    md_sha1_dic["update_time"] =  time.strftime('%Y-%m-%d-%H-%M-%S')
+    write_dic_info_to_file(md_sha1_dic, file)
+
 def post_link_id_list_2_link_id_dic(post_link_id_list):
     link_id_dic = {}
     for post in post_link_id_list:
@@ -314,13 +328,14 @@ def main():
     # 查看目录下是否存在md_sha1.txt,如果存在则读取内容；
     # 如果不存在则创建md_sha1.txt,内容初始化为{}，并读取其中的内容；
     # 将读取的字典内容变量名，设置为 md_sha1_dic
-    md_sha1_dic = get_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"))
+    # md_sha1_dic = get_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"))
 
     # 3. 开始同步
     # 读取_posts目录中的md文件列表
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
 
     for md in md_list:
+        md_sha1_dic = get_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"))
         # 计算md文件的sha1值，并与md_sha1_dic做对比
         sha1_key = os.path.basename(md).split(".")[0]
         sha1_value = get_sha1(md)
@@ -369,6 +384,8 @@ def main():
                     "terms_names_category": terms_names_category
                 });
             time.sleep(SLEEP_TIME_BETWEEN_POSTS) # 避免请求过快被服务器拒绝
+            # 同步完成后，更新.md_sha1文件
+            rebuild_md_sha1_dic_for_md_file(os.path.join(os.getcwd(), ".md_sha1"), md)
 
     # 4. 重建md_sha1_dic
     rebuild_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"), os.path.join(os.getcwd(), "_posts"))
