@@ -334,7 +334,8 @@ def main():
     # 读取_posts目录中的md文件列表
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
 
-    for md in md_list:
+    for md_index, md in enumerate(md_list):
+        print(f"同步进度: {md_index+1}/{len(md_list)} 正在同步第 {md_index+1} 篇文章==>> 总共 {len(md_list)} 篇文章")
         md_sha1_dic = get_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"))
         # 计算md文件的sha1值，并与md_sha1_dic做对比
         sha1_key = os.path.basename(md).split(".")[0]
