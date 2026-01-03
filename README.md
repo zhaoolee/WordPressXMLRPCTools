@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2026年01月03日更新)
+[值得一人公司独立开发者每天花半小时获取灵感的网站](https://fangyuanxiaozhan.com/p/2026-01-03-14-25-29-get-info-everyday/)
+
 [Manus：你知道我们的视频做的非常草台, 快就是我们的核心竞争力](https://fangyuanxiaozhan.com/p/2026-01-03-12-16-39-manus/)
 
 [AI生成大量代码带来的问题](https://fangyuanxiaozhan.com/p/2025-12-28-16-17-52-vibe-coding/)
