@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2026年01月01日更新)
+## 目录(2026年01月03日更新)
+[Manus：你知道我们的视频做的非常草台, 快就是我们的核心竞争力](https://fangyuanxiaozhan.com/p/2026-01-03-12-16-39-manus/)
+
 [AI生成大量代码带来的问题](https://fangyuanxiaozhan.com/p/2025-12-28-16-17-52-vibe-coding/)
 
 [莫比乌斯环](https://fangyuanxiaozhan.com/p/2025-12-28-15-30-23-mobius/)
