@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2026年01月03日更新)
+## 目录(2026年01月05日更新)
+[互联网创业24小时内完成编码，推向市场](https://fangyuanxiaozhan.com/p/2026-01-05-20-15-31-24-hours/)
+
 [值得一人公司独立开发者每天花半小时获取灵感的网站](https://fangyuanxiaozhan.com/p/2026-01-03-14-25-29-get-info-everyday/)
 
 [Manus：你知道我们的视频做的非常草台, 快就是我们的核心竞争力](https://fangyuanxiaozhan.com/p/2026-01-03-12-16-39-manus/)
