@@ -480,6 +480,10 @@
 
 ---end---
 
+## 2026年1月7日更新，开发了一个VScode扩展工具，让VScode写文章有Typora的图片管理体验，每个markdonw都有独立的图片文件夹
+
+![](./README.assets/107883887202b79b84fa802de8f353a8ed1e29a7888a78217bce0155c486d6c2.gif)
+
 ## 2026年1月5日更新，开发了一个小工具，支持Markdown文件图片自动上传到自己的七牛云，并输出替换图片后的文件，方便在社交平台分享
 
 https://github.com/zhaoolee/upload-md-local-image-to-qiniu
