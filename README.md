@@ -1,8 +1,8 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2026年01月06日更新)
-[让VSCode像Typora一样为每个markdonw文件分文件夹存图片](https://fangyuanxiaozhan.com/p/2026-01-06-19-53-16-markdown-assets-dir/)
+## 目录(2026年01月07日更新)
+[《自制开源插件》让VSCode拥有Typora的体验，每个markdown文件图片存储到独立文件夹](https://fangyuanxiaozhan.com/p/2026-01-06-19-53-16-markdown-assets-dir/)
 
 [互联网创业24小时内完成编码，推向市场](https://fangyuanxiaozhan.com/p/2026-01-05-20-15-31-24-hours/)
 
