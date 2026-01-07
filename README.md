@@ -482,7 +482,7 @@
 
 ---end---
 
-## 2026年1月7日更新，开发了一个VScode扩展工具，让VScode写文章有Typora的图片管理体验，每个markdonw都有独立的图片文件夹
+## 2026年1月7日更新，开发了一个VScode扩展工具，让VScode写文章有Typora的图片管理体验，每个markdown都有独立的图片文件夹
 
 ![](./README.assets/107883887202b79b84fa802de8f353a8ed1e29a7888a78217bce0155c486d6c2.gif)
 
