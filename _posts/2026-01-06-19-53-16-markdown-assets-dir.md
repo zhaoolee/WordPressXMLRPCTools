@@ -1,5 +1,5 @@
 ---
-title: 让VSCode像Typora一样为每个markdonw文件分文件夹存图片
+title: 《自制开源插件》让VSCode拥有Typora的体验，每个markdown文件图片存储到独立文件夹
 tags:
 - 个人成长
 categories:
