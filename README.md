@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2026年01月07日更新)
+## 目录(2026年01月18日更新)
+[歪脖（vibe）编程一些趣事](https://fangyuanxiaozhan.com/p/2026-01-18-14-10-49-vibe-coding/)
+
 [流利的博客](https://fangyuanxiaozhan.com/p/2026-01-07-16-30-32-fluent-blog/)
 
 [AI技术本身是反协作的，但它能提升程序员的生产力](https://fangyuanxiaozhan.com/p/2026-01-07-14-22-23-employee/)
