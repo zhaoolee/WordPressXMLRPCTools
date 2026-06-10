@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2026年02月09日更新)
+## 目录(2026年06月10日更新)
+[A除最畜生的一代模型 Claude 5 发布后...](https://fangyuanxiaozhan.com/p/2026-06-10-14-25-36-anthropic-fable-5/)
+
 [OpenClaw变现的途径](https://fangyuanxiaozhan.com/p/2026-02-09-21-58-15-openclaw/)
 
 [Openclaw的8条实用技巧,教你用OpenClaw自动分析懂王推文](https://fangyuanxiaozhan.com/p/2026-02-01-10-41-58-openclaw-tips/)
