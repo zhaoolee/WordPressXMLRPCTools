@@ -1,7 +1,9 @@
 # 方圆小站Github仓库
 
 ---start---
-## 目录(2026年06月10日更新)
+## 目录(2026年09月14日更新)
+[用AI打磨软件](https://fangyuanxiaozhan.com/p/2026-06-16-11-38-56-use-ai-polish-the-software/)
+
 [A除最畜生的一代模型 Claude 5 发布后...](https://fangyuanxiaozhan.com/p/2026-06-10-14-25-36-anthropic-fable-5/)
 
 [OpenClaw变现的途径](https://fangyuanxiaozhan.com/p/2026-02-09-21-58-15-openclaw/)
